@@ -6,7 +6,7 @@ Complex Scalable Inline Rendering with LaTeX and Codecogs
 
 If your needs are greater use an external LaTeX renderer like CodeCogs. Create an equation with CodeCogs editor (https://www.codecogs.com/latex/eqneditor.php). Choose svg for rendering and HTML for the embed code. Svg renders well on resize. HTML allows LaTeX to be easily read when you are looking at the source. Copy the embed code from the bottom of the page and paste it into your markdown.
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=title="L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)"" title="title="L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)""/>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 -->
 
 # Resolucion 0627 de 2006
@@ -59,9 +59,7 @@ LRAeq,T, Residual y nivel percentil L90, respectivamente.
 Las correcciones, en decibeles, se efectúan de acuerdo con la siguiente ecuación para
 los parámetros de medida de que trata el artículo 4 de esta resolución:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"/>
-
-LR A(X),T = LA(X),T + (KI, KT, KR, KS)
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)" title="L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)" />
 
 Donde:
 
