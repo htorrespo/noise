@@ -1,3 +1,7 @@
+<--!
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+-->
+
 # Resolucion 0627 de 2006
 
 # Definiciones
@@ -20,8 +24,6 @@ ponderado A, LAeq,T, Residual
 Sí por alguna razón no es posible medir el ruido residual, se toma como
 valor el correspondiente al nivel percentil L90. En el informe técnico se deben especificar
 las razones por las cuales no fue posible medir el ruido residual.
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 # Emision de ruido
 
