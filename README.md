@@ -5,11 +5,11 @@
 Parámetros de Medida: Se establecen como parámetros principales para
 la medida del ruido los siguientes:
 
- Nivel de presión sonora continúo equivalente ponderado A, LAeq,T y ponderado
+- Nivel de presión sonora continúo equivalente ponderado A, LAeq,T y ponderado
 lento (S).
- Ruido Residual, medido como nivel de presión sonora continuo equivalente
+- Ruido Residual, medido como nivel de presión sonora continuo equivalente
 ponderado A, LAeq,T, Residual
- Nivel percentil L90
+- Nivel percentil L90
 
 Parágrafo: Sí por alguna razón no es posible medir el ruido residual, se toma como
 valor el correspondiente al nivel percentil L90. En el informe técnico se deben especificar
