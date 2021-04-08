@@ -11,7 +11,7 @@ lento (S).
 ponderado A, LAeq,T, Residual
 - Nivel percentil L90
 
-Parágrafo: Sí por alguna razón no es posible medir el ruido residual, se toma como
+Sí por alguna razón no es posible medir el ruido residual, se toma como
 valor el correspondiente al nivel percentil L90. En el informe técnico se deben especificar
 las razones por las cuales no fue posible medir el ruido residual.
 
@@ -24,8 +24,8 @@ efectúan en un intervalo unitario de tiempo de medida.
 
 El intervalo unitario de tiempo
 de medida -T-, para los niveles de presión sonora continuo equivalente con filtro de
-ponderación frecuencial A, -LAeq,T-, del ruido residual y del nivel percentil L90, de que
-trata el Artículo 4 de ésta resolución, se establece en una hora la cual puede ser medida
+ponderación frecuencial A, -LAeq,T-, del ruido residual y del nivel percentil L90,
+se establece en una hora la cual puede ser medida
 en forma continua o con intervalos de tiempo distribuidos uniformemente hasta obtener,
 como mínimo, quince (15) minutos de captura de información.
 
