@@ -116,4 +116,9 @@ Residual, medido en una hora.
 En caso de no poderse evaluar el ruido residual, se toma el nivel percentil
 L90 corregido y se utiliza a cambio del valor del ruido residual corregido.
 
+Estándares  máximos permisibles de niveles de
+emisión de ruido expresados en decibeles ponderados A, dB(A),
+
+
+
 
