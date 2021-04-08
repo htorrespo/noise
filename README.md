@@ -6,7 +6,7 @@ Complex Scalable Inline Rendering with LaTeX and Codecogs
 
 If your needs are greater use an external LaTeX renderer like CodeCogs. Create an equation with CodeCogs editor (https://www.codecogs.com/latex/eqneditor.php). Choose svg for rendering and HTML for the embed code. Svg renders well on resize. HTML allows LaTeX to be easily read when you are looking at the source. Copy the embed code from the bottom of the page and paste it into your markdown.
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"/>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=title="L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)"" title="title="L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)""/>
 -->
 
 # Resolucion 0627 de 2006
@@ -50,6 +50,28 @@ fuente(s) emisora(s) de ruido por su naturaleza o modo de operación, no permite
 efectuar las mediciones en los intervalos de tiempo mencionados, estas se deben
 efectuar en el tiempo o tiempos correspondientes de operación de la(s) fuente(s),
 relacionándose el hecho y el procedimiento seguido en el respectivo informe técnico.
+
+_Ajustes_: Los niveles de presión sonora continuo equivalente ponderados A,
+LAeq,T, LAeq,T, Residual y nivel percentil L90, se corrigen por impulsividad, tonalidad,
+condiciones meteorológicas, horarios, tipos de fuentes y receptores, para obtener
+niveles corregidos de presión sonora continuo equivalente ponderados A, LRAeq,T ,
+LRAeq,T, Residual y nivel percentil L90, respectivamente.
+Las correcciones, en decibeles, se efectúan de acuerdo con la siguiente ecuación para
+los parámetros de medida de que trata el artículo 4 de esta resolución:
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"/>
+
+LR A(X),T = LA(X),T + (KI, KT, KR, KS)
+
+Donde:
+
+- KI es un ajuste por impulsos (dB(A))
+- KT es un ajuste por tono y contenido de información (dB(A))
+- KR es un ajuste por la hora del día (dB(A))
+- KS es un ajuste (positivo o negativo) para ciertas fuentes y situaciones, por
+ejemplo bajas frecuencias (dB(A))
+- (X) corresponde a cualquiera de los parámetros de medida de que trata la definicion.
+
 
 # Emision de ruido
 
