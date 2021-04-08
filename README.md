@@ -57,7 +57,7 @@ condiciones meteorológicas, horarios, tipos de fuentes y receptores, para obten
 niveles corregidos de presión sonora continuo equivalente ponderados A, LRAeq,T ,
 LRAeq,T, Residual y nivel percentil L90, respectivamente.
 Las correcciones, en decibeles, se efectúan de acuerdo con la siguiente ecuación para
-los **parámetros de medida**,
+los __**parámetros de medida**__,
 
 <img src="https://latex.codecogs.com/svg.latex?\LARGE&space;L_{R&space;A(X),T}&space;=&space;L_{A(X),T}&space;&plus;&space;(K_I,&space;K_T,&space;K_R,&space;K_S)" title="\LARGE L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)" />
 
@@ -92,12 +92,12 @@ permisibles de emisión de ruido y ruido ambiental.
 _Aplicabilidad de la Emisión de Ruido_: Los resultados obtenidos en las
 medidas de emisión de ruido, son utilizados para la verificación de los niveles de
 emisión de ruido por parte de las fuentes. Las mediciones de la emisión de ruido se
-efectúan en un **intervalo unitario de tiempo de medida** y con el procedimiento 
+efectúan en un __**intervalo unitario de tiempo de medida**__ y con el procedimiento 
 descrito en el Anexo 3.
 
 _Cálculo de la Emisión o Aporte de Ruido_: La emisión o aporte de ruido de
 cualquier fuente se obtiene al restar logaritmicamente, el ruido residual corregido, del
-valor del nivel de presión sonora corregido continuo equivalente ponderado A, -LRAeq,T -,
+valor del nivel de presión sonora corregido continuo equivalente ponderado A, LRAeq,T,
 como se expresa a continuación:
 
 <img src="https://latex.codecogs.com/svg.latex?\LARGE&space;Leq_{emision}&space;=&space;10\&space;log&space;(10&space;^{(LRAeq,1h)/10}&space;-\&space;10&space;^{(LRAeq,&space;1h,\&space;Residual)&space;/10})" title="\LARGE Leq_{emision} = 10\ log (10 ^{(LRAeq,1h)/10} -\ 10 ^{(LRAeq, 1h,\ Residual) /10})" />
