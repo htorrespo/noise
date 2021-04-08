@@ -63,13 +63,22 @@ los parámetros de medida de que trata el artículo 4 de esta resolución:
 
 Donde:
 
-- KI es un ajuste por impulsos (dB(A))
-- KT es un ajuste por tono y contenido de información (dB(A))
-- KR es un ajuste por la hora del día (dB(A))
+- KI es un ajuste por impulsos, dB(A)
+- KT es un ajuste por tono y contenido de información, dB(A)
+- KR es un ajuste por la hora del dí,dB(A)
 - KS es un ajuste (positivo o negativo) para ciertas fuentes y situaciones, por
-ejemplo bajas frecuencias (dB(A))
+ejemplo bajas frecuencias, dB(A)
 - (X) corresponde a cualquiera de los parámetros de medida de que trata la definicion.
 
+El nivel de presión sonora continúo equivalent e ponderado A, LAeq,T, solo se corrige por
+un solo factor K, el de mayor valor en dB(A).
+
+La determinación de los valores de ajuste para los diferentes K se
+efectúa de acuerdo con la metodología establecida en el Anexo 2.
+
+Los niveles corregidos de presión sonora continuo equivalente
+ponderados A, LRAeq,T, son los que se comparan con los estándares máximos
+permisibles de emisión de ruido y ruido ambiental.
 
 # Emision de ruido
 
