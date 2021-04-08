@@ -61,14 +61,21 @@ los parámetros de medida de que trata el artículo 4 de esta resolución:
 
 <img src="https://latex.codecogs.com/svg.latex?L_{R&space;A(X),T}&space;=&space;L_{A(X),T}&space;&plus;&space;(K_I,&space;K_T,&space;K_R,&space;K_S)" title="\Large L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)" />
 
+
 Donde:
 
 - KI es un ajuste por impulsos, dB(A)
+
 - KT es un ajuste por tono y contenido de información, dB(A)
+
 - KR es un ajuste por la hora del dí,dB(A)
+
 - KS es un ajuste (positivo o negativo) para ciertas fuentes y situaciones, por
 ejemplo bajas frecuencias, dB(A)
+
 - (X) corresponde a cualquiera de los parámetros de medida de que trata la definicion.
+
+
 
 El nivel de presión sonora continúo equivalent e ponderado A, LAeq,T, solo se corrige por
 un solo factor K, el de mayor valor en dB(A).
@@ -82,16 +89,31 @@ permisibles de emisión de ruido y ruido ambiental.
 
 # Emision de ruido
 
-Los resultados obtenidos en las
-medidas de la emisión de ruido, son utilizados para la verificación de los niveles de
+_Aplicabilidad de la Emisión de Ruido_: Los resultados obtenidos en las
+medidas de emisión de ruido, son utilizados para la verificación de los niveles de
 emisión de ruido por parte de las fuentes. Las mediciones de la emisión de ruido se
-efectúan en un intervalo unitario de tiempo de medida.
+efectúan en un **intervalo unitario de tiempo de medida** y con el procedimiento 
+descrito en el Anexo 3.
 
-El intervalo unitario de tiempo
-de medida -T-, para los niveles de presión sonora continuo equivalente con filtro de
-ponderación frecuencial A, -LAeq,T-, del ruido residual y del nivel percentil L90,
-se establece en una hora la cual puede ser medida
-en forma continua o con intervalos de tiempo distribuidos uniformemente hasta obtener,
-como mínimo, quince (15) minutos de captura de información.
+_Cálculo de la Emisión o Aporte de Ruido_: La emisión o aporte de ruido de
+cualquier fuente se obtiene al restar logaritmicamente, el ruido residual corregido, del
+valor del nivel de presión sonora corregido continuo equivalente ponderado A, -LRAeq,T -,
+como se expresa a continuación:
+
+<img src="https://latex.codecogs.com/svg.latex?\LARGE&space;Leq_{emision}&space;=&space;10\&space;log&space;(10&space;^{(LRAeq,1h)/10}&space;-\&space;10&space;^{(LRAeq,&space;1h,\&space;Residual)&space;/10})" title="\LARGE Leq_{emision} = 10\ log (10 ^{(LRAeq,1h)/10} -\ 10 ^{(LRAeq, 1h,\ Residual) /10})" />
+
+Donde:
+
+- Leqemisión: Nivel de emisión de presión sonora, o aporte de la(s) fuente(s)
+sonora(s), ponderado A,
+
+- LRAeq,1 h: Nivel corregido de presión sonora continúo equivalente ponderado A,
+medido en una hora,
+
+- LRAeq,1 h, Residual: Nivel corregido de presión sonora continuo equivalente ponderado A,
+Residual, medido en una hora.
+
+En caso de no poderse evaluar el ruido residual, se toma el nivel percentil
+L90 corregido y se utiliza a cambio del valor del ruido residual corregido.
 
 
