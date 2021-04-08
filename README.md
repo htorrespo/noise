@@ -2,7 +2,13 @@
 
 # Definiciones
 
-Parámetros de Medida: Se establecen como parámetros principales para
+_Unidades de Medida_: La pres ión sonora se expresa en Pascales, los
+niveles de presión sonora se expresan en decibeles (dB). Las medidas deben indicar el
+filtro de ponderación frecuencial utilizado (A, C, D u otro) y el filtro de ponderación
+temporal F, S o I según sea rápida, lenta o de impulso (Fast, Slow o Impulse, en inglés).
+Para todas las mediciones y cálculos, la presión sonora de referencia es 20 μPa.
+
+_Parámetros de Medida_: Se establecen como parámetros principales para
 la medida del ruido los siguientes:
 
 - Nivel de presión sonora continúo equivalente ponderado A, LAeq,T y ponderado
