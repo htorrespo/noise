@@ -59,7 +59,7 @@ LRAeq,T, Residual y nivel percentil L90, respectivamente.
 Las correcciones, en decibeles, se efectúan de acuerdo con la siguiente ecuación para
 los parámetros de medida de que trata el artículo 4 de esta resolución:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)" title="\Large x=\L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)" title="\Large L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)" />
 
 Donde:
 
