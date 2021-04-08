@@ -61,6 +61,9 @@ los parámetros de medida de que trata el artículo 4 de esta resolución:
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)" title="\Large L_{R A(X),T} = L_{A(X),T} + (K_I, K_T, K_R, K_S)" />
 
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
 Donde:
 
 - KI es un ajuste por impulsos (dB(A))
