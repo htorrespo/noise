@@ -13,6 +13,12 @@ If your needs are greater use an external LaTeX renderer like CodeCogs. Create a
 
 # Definiciones
 
+_Horarios_: Para efectos de aplicación de esta resolución, para todo el
+territorio nacional, se establecen los siguientes horarios.
+
+- DIURNO: De las 7:01 a las 21:00 horas
+- NOCTURNO: De las 21:01 a las 7:00 horas
+
 _Unidades de Medida_: La pres ión sonora se expresa en Pascales, los
 niveles de presión sonora se expresan en decibeles (dB). Las medidas deben indicar el
 filtro de ponderación frecuencial utilizado (A, C, D u otro) y el filtro de ponderación
