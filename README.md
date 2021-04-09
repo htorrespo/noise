@@ -338,6 +338,46 @@ matemática es:
 
 <img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L_{eq}&space;=&space;10\&space;log&space;\left&space;[&space;\frac{1}{T}&space;\sum&space;t_1&space;10^{L_i/10}&space;\right&space;]" title="\huge L_{eq} = 10\ log \left [ \frac{1}{T} \sum t_1 10^{L_i/10} \right ]" />
 
+Donde:
+
+ti es el tiempo de observación durante el cual el nivel sonoro es Li ± 2 dBA.
+
+L10: Es el nivel sonoro en dBA que se sobrepasa durante el 10% del tiempo de
+observación. L10= L50+1,28s (dBA).
+
+L90.: Es el nivel sonoro en dBA que se sobrepasa durante el 90% del tiempo de
+observación. L90=L50-1,28s (dBA).
+
+LRAeq,T.: Es el nivel corregido de presión sonora continuo equivalente ponderado A,
+evaluado en un periodo de tiempo (T).
+
+LAeq,T, d.: Es el nivel de presión sonora continuo equivalente ponderado A, evaluado en
+periodo diurno.
+
+LAeq,T, n: Es el nivel de presión sonora continuo equivalente ponderado A, evaluado en
+periodo nocturno.
+
+_Mapas de ruido_: Se entiende por mapa de ruido, la representación de los datos sobre
+una situación acústica existente o pronosticada en función de un indicador de ruido, en
+la que se indica la superación de un valor límite, el número de personas afectadas en
+una zona dada y el número de viviendas, centros educativos y hospitales expuestos a
+determinados valores de ese indicador en dicha zona.
+
+_Medio ambiente_: Es el conjunto de componentes físicos, químicos, biológicos y
+sociales capaces de causar efectos directos o indirectos, en un plazo corto o largo,
+sobre los seres vivos y las actividades humanas.
+
+_Motocicleta_: Vehículo automotor de dos ruedas en línea, con capacidad para el
+conductor y un acompañante.
+
+_Nivel (L)_: En acústica, la incorporación del término Nivel a una magnitud, quiere decir
+que se está considerando el logaritmo decimal del cociente del valor de la magnitud con
+respecto a otro valor de la misma, tomado como referencia.
+
+_Nivel de presión sonora (Lp) (dB)_: Es la cantidad expresada en decibeles y calculada
+según la siguiente ecuación:
+
+
 Complementar ...
 
 # ANEXO 2
