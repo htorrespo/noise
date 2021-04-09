@@ -231,7 +231,7 @@ elaboración del informe técnico de medición de ruido.
 
 # ANEXO 1
 
-**Definiciones**
+## Definiciones
 
 
 _Acústica_: Rama de la ciencia que trata de las perturbaciones elásticas sonoras.
@@ -289,7 +289,7 @@ Complementar ...
 
 # ANEXO 2
 
-**Determminacion de los valores de ajuste K**
+## Determminacion de los valores de ajuste K
 
 1. La corrección de nivel KS se aplica de la siguiente manera:
 2. 
@@ -366,4 +366,47 @@ temporal Impulso (Impulse; en ingles), promediado en el tiempo Ti, LAI.
 - Si 3 dB(A) ≤ LI ≤ 6 dB(A), hay percepción neta de componentes impulsivos.
 - Si LI > 6 dB(A), hay percepción fuerte de componentes impulsivos.
 
+
+# Anexo 3
+
+## Procedimientos de medicion
+
+### Capitulo I procediomiento de medicion para emisiones de ruido
+
+a) La determinación del nivel de presión sonora se realiza y expresa en decibeles
+corregidos por frecuencia conforme a la curva de ponderación normalizada tipo A dB(A).
+
+b) Las medidas de los niveles de emisión de ruido a través de los paramentos verticales
+de una edificación, cuando las fuentes emisoras de ruido (no importa cuantas) están
+ubicadas en el interior o en las fachadas de la edificación, tales como ventiladores,
+aparatos de aire acondicionado, rejillas de ventilación, se realizan a 1,5 metros de la
+fachada de éstas y a 1,20 metros a partir del nivel mínimo donde se encuentre instalada
+la fuente (piso, patas o soporte de la fuente). Siempre se elige la posición, hora y
+condiciones de mayor incidencia sonora. Las medidas se efectúan sin modificar las
+posiciones habituales de operación de abierto o cerrado de puertas y ventanas y con las
+fuentes de ruido en operación habitual.
+
+El sitio de medida se elige efectuando una evaluación previa de la situación de emisión
+de ruido por medio de un barrido rápido del nivel de ruido emitido, el cual se hace a 1,5
+m de la fachada, de esta manera se determina el punto de mayor nivel sonoro el cual se
+toma el sitio de medición, coincidiendo generalmente frente a puertas o ventanas.
+En caso de que las fuentes ruidosas estén situadas en azoteas de edificaciones, la
+medición se realiza a nivel del límite de la azotea o pretil de ésta. El micrófono se sitúa
+a 1,20 metros de altura y si existe pretil o antepecho, a 1,20 metros por encima del
+mismo.
+
+Cuando no existen límites medianeros o división parcelaria alguna, porque la actividad o
+fuente generadora de ruido se encuentra instalada en zona de espacio público, la
+medición se realiza en el límite del área asignada en la correspondiente autorización o
+licencia y en su defecto, se mide a 1,5 metros de distancia de la actividad o fuente
+generadora de ruido y a 1,20 m del piso.
+
+c) Para la medición de los ruidos residuales, nivel percentil L90 y los ruidos procedentes
+de la actividad o fuente(s) origen del ruido y con el fin de prevenir posibles errores de
+medición se adoptan las siguientes medidas:
+
+- El micrófono siempre se protege con pantalla antiviento y se coloca sobre un
+trípode a la altura definida.
+- Se mide la velocidad del viento y si ésta es superior a 3 m/s, se procede de
+acuerdo con el parágrafo del Artículo 20.
 
