@@ -119,6 +119,36 @@ L90 corregido y se utiliza a cambio del valor del ruido residual corregido.
 Estándares  máximos permisibles de niveles de
 emisión de ruido expresados en decibeles ponderados A, dB(A),
 
+Elaborar Tabla
 
+Cuando la emisión de ruido en un sector o subsector, trascienda a
+sectores o subsectores vecinos o inmersos en él, los estándares máximos permisibles
+de emisión de ruido son aquellos que corresponden al sector o subsector más
+restrictivo.
+
+Las vías troncales, autopistas, vías arterias, vías principales, en
+general las vías, son objeto de medición de ruido ambiental, más no de emisión de ruido
+por fuentes móviles.
+
+Las vías troncales, autopistas, vías arterias y vías principales, en
+áreas urbanas o cercanas a poblados o asentamientos humanos, no se consideran
+como subsectores inmersos en otras zonas o subsectores.
+
+En los sectores y/o subsectores en que los estándares máximos
+permisibles de emisión de ruido de la Tabla 1, son superados a causa de fuentes de
+emisión naturales, sin que exista intervención del hombre, estos valores son
+considerados como los estándares máximos p ermisibles, como es el caso de cascadas,
+sonidos de animales en zonas o parques naturales.
+
+_Ruido de Aeronaves_: Para efectos de la emisión de ruido de aeronaves
+se tendrá en cuenta lo consagrado en la Resolución 2130 de 2004 de la Unidad
+Administrativa Especial de Aeronáutica Civil o la que la adicione, modifique o sustituya.
+
+
+_Ruido de Aeropuertos_: Los aeropuertos son considerados como sectores
+industriales y el ruido debe ser evaluado según lo estipulado en la presente resolución
+para este tipo de sectores.
+
+# Ruido ambiental
 
 
