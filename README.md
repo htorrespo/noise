@@ -340,6 +340,30 @@ Se determina la presencia o ausencia de componentes tonales, entre 20 a 125 Hz:
 
 Se determina la presencia o ausencia de componentes tonales, entre 160 a 400 Hz:
 
+- Si L < 5 dB(A), no hay componentes tonale s.
+- Si 5 dB(A) ≤ L ≤ 8 dB(A), hay componente tonal neto.
+- Si L > 8 dB(A), hay componente tonal fuerte.
 
+Se determina la presencia o ausencia de componentes tonales a partir de 500 Hz:
+
+- Si L < 3 dB(A), no hay componentes tonales.
+- Si 3 dB(A) ≤ L ≤ 5 dB(A), hay componente tonal neto.
+- Si L > 5 dB(A), hay componente tonal fuerte.
+
+6. El ruido que se evalúa tiene componentes impulsivos si se perciben sonidos de alto
+nivel de presión sonora y duración corta. Para evaluar de manera detallada la presencia
+de componentes impulsivos se establece el siguiente procedimiento:
+
+Para una determinada fase de ruido de duración Ti en la cual se percibe un ruido
+impulsivo:
+
+- Se mide el nivel de presión sonora continuo equivalente ponderado A, durante Ti, LA,
+Ti.
+- Se mide el nivel de presión sonora ponderado A, determinado con la característica
+temporal Impulso (Impulse; en ingles), promediado en el tiempo Ti, LAI.
+- Se calcula la diferencia Li = LAI - LA,TI.
+- Si LI < 3 dB(A), no hay componentes impulsivos.
+- Si 3 dB(A) ≤ LI ≤ 6 dB(A), hay percepción neta de componentes impulsivos.
+- Si LI > 6 dB(A), hay percepción fuerte de componentes impulsivos.
 
 
