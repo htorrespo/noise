@@ -285,6 +285,59 @@ naturales de los inmuebles privados, destinados por su naturaleza, por su uso o
 afectación, a la satisfacción de necesidades urbanas colectivas que trascienden, por
 tanto, los estándares de los intereses individuales de los habitantes.
 
+?Espacio privado?: Se ha de entender no solo como aquel sobre el cual ejerce dominio,
+mediante su propiedad, un grupo o persona determinada, sino como una espacialidad
+que tiene características diferentes y que está compuesta en primer lugar del espacio
+individual, que proporciona la intimidad y cuyo acceso es prohibido (negativo), limitado,
+como la vivienda como su más estrecha acepción: el techo. Bajo esta nominación se
+incluyen además todas aquellas espacialidades que tienen un acceso limitado por la
+propiedad del mismo como son los lugares de trabajo, oficinas, fábricas y en general
+todos aquellos espacios sobre los cuales existe un estricto control por parte del interés
+particular.
+
+_Especificación_: Exigencia o requisito que debe cumplir un producto, un proceso o un
+servicio. Una especificación puede ser una norma, pero generalmente es parte de una
+norma.
+
+_Filtros de Tercios de Octava_: dispositivo que permite efectuar análisis de una la señal
+acústica, en bandas de tercios de octava.
+
+_Frecuencia (ƒ) (Hz)_: En una función periódica en el tiempo, es el número de ciclos
+realizados en la unidad de tiempo (ƒ = c/s). La frecuencia es la inversa del período. La
+unidad es el Hertzio (Hz) que es igual a l/S.
+
+_Fuente_: Elemento que origina la energía mecánica vibratoria, definida como ruido o
+sonido. Puede considerarse estadísticamente como una familia de generadores de
+ruido que pueden tener características físicas diferentes, distribuidas en el tiempo y en
+el espacio.
+
+_Hertzio (Hz)_: Es la unidad de frecuencia, equivalente al ciclo por segundo ( c/s). Un
+fenómeno periódico de 1 segundo de período tiene frecuencia 1 Hz.
+
+_Incertidumbre de medición_: Parámetro, asociado al resultado de una medición, que
+caracteriza la dispersión de los valores que pudieran ser razonablemente atribuidos a la
+magnitud a medir. El parámetro puede ser, por ejemplo, la desviación típica (o un múltiplo
+de ésta), o la amplitud del intervalo de confianza. La incertidumbre de medición
+comprende, en general, muchos componentes. Algunos de ellos pueden ser evaluados a
+partir de la distribución estadística de los resultados de series de mediciones y pueden ser
+caracterizados mediante desviaciones típicas experimentales. Los otros componentes,
+que pueden también ser caracterizados por desviaciones típicas, son evaluados a partir de
+distribuciones de probabilidad asumida, basadas en la experiencia u otra información. Se
+entiende que el resultado de la medición es el mejor estimado del valor de la magnitud a
+medir y de todos los componentes de la incertidumbre que contribuyen a la dispersión,
+incluyendo aquellos que surgen de los efectos sistemáticos tales como los componentes
+asociados con las correcciones y los patrones de referencia.
+
+_Índices de ruido_: Diversos parámetros de medida cuya aplicación está en función de la
+fuente productora del ruido y el medio donde incide. Ejemplos: Leq, L10, L90, TNI.
+
+_Leq_. Nivel sonoro continuo equivalente, es el nivel en dBA de un ruido constante
+hipotético correspondiente a la misma cantidad de energía acústica que el ruido real
+considerado, en un punto determinado durante un período de tiempo T y su expresión
+matemática es:
+
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\large&space;L_{eq}&space;=&space;10\&space;log&space;\left&space;[&space;\frac{1}{T}&space;\sum&space;t_1&space;10^{L_i/10}&space;\right&space;]" title="\large L_{eq} = 10\ log \left [ \frac{1}{T} \sum t_1 10^{L_i/10} \right ]" />
+
 Complementar ...
 
 # ANEXO 2
