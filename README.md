@@ -102,6 +102,8 @@ como se expresa a continuación:
 
 <img src="https://latex.codecogs.com/svg.latex?\LARGE&space;Leq_{emision}&space;=&space;10\&space;log&space;(10&space;^{(LRAeq,1h)/10}&space;-\&space;10&space;^{(LRAeq,&space;1h,\&space;Residual)&space;/10})" title="\LARGE Leq_{emision} = 10\ log (10 ^{(LRAeq,1h)/10} -\ 10 ^{(LRAeq, 1h,\ Residual) /10})" />
 
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L_{eq_{emision}}&space;=&space;10\&space;log&space;(10&space;^{(L_{RAeq,1h})/10}&space;-\&space;10&space;^{(L_{RAeq,1h,Residual})/10})" title="\huge L_{eq_{emision}} = 10\ log (10 ^{(L_{RAeq,1h})/10} -\ 10 ^{(L_{RAeq,1h,Residual})/10})" />
+
 Donde:
 
 - Leqemisión: Nivel de emisión de presión sonora, o aporte de la(s) fuente(s)
@@ -378,7 +380,7 @@ continuación:
 - Se hace un análisis con resolución de 1/3 de octava.
 - Se calcula la diferencia:
 
-L = Lt - Ls
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L&space;=&space;L_t&space;-&space;L_s" title="\huge L = L_t - L_s" />
 
 Donde:
 
@@ -495,7 +497,7 @@ inferior al ruido residual.
 g) La emisión de ruido o aporte de una fuente, de acuerdo con el Artículo 8 de esta
 resolución, se calcula por la expresión:
 
-<img src="https://latex.codecogs.com/svg.latex?\LARGE&space;Leq_{emision}&space;=&space;10\&space;log\&space;(10\&space;^{LRAeq,1h/10}&space;\&space;-&space;\&space;10\&space;^{LRAeq,&space;1h,&space;residual&space;/10})" title="\LARGE Leq_{emision} = 10\ log\ (10\ ^{LRAeq,1h/10} \ - \ 10\ ^{LRAeq, 1h, residual /10})" />
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L_{eq_{emision}}&space;=&space;10\&space;log\&space;(10\&space;^{L_{RAeq,1h}/10}&space;\&space;-&space;\&space;10\&space;^{L_{RAeq,1h,residual}&space;/10})" title="\huge L_{eq_{emision}} = 10\ log\ (10\ ^{L_{RAeq,1h}/10} \ - \ 10\ ^{L_{RAeq,1h,residual} /10})" />
 
 h) Para corregir los niveles equivalentes de emisión total y residual por tonos y por
 impulsividad se debe proceder como se especifica en el Anexo 2.
@@ -553,7 +555,7 @@ posición orientada del micrófono, así: Norte, Sur, Este, Oeste y Vertical hac
 resultado de la medición es obtenido mediante la siguiente expresión:
 
 
-<img src="https://latex.codecogs.com/svg.latex?L{Aeq}&space;=&space;10\&space;log\&space;((1/5)\&space;(10\&space;^{L_N/10}&space;&plus;10\&space;^{L_O/10}&space;&plus;&space;10\&space;^{L_S/10}&space;&plus;&space;10\&space;^{L_E/10}&space;&plus;&space;10\&space;^{L_V/10}&space;))" title="L{Aeq} = 10\ log\ ((1/5)\ (10\ ^{L_N/10} +10\ ^{L_O/10} + 10\ ^{L_S/10} + 10\ ^{L_E/10} + 10\ ^{L_V/10} ))" />
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L_{Aeq}&space;=&space;10\&space;log&space;\left&space;[&space;\frac{1}{5}(10^{L_N/10}&space;&plus;&space;10^{L_O/10}&space;&plus;&space;10^{L_S/10}&space;&plus;&space;10^{L_E/10}&space;&plus;&space;10^{L_V/10}&space;\right&space;]" title="\huge L_{Aeq} = 10\ log \left [ \frac{1}{5}(10^{L_N/10} + 10^{L_O/10} + 10^{L_S/10} + 10^{L_E/10} + 10^{L_V/10} \right ]" />
 
 <!--
 <img src="https://latex.codecogs.com/svg.latex?\large&space;L_{Aeq}=10log((1/5)(10^{L_N/10}+10^{L_O/10}+10^{L_S/10}+10^{L_E/10}+10^{L_V/10}))" title="\large L_{Aeq} = 10log((1/5)(10^{L_N/10}+10^{L_O/10}+10^{L_S/10}+10^{L_E/10}+10^{L_V/10}))"/>
