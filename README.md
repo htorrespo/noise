@@ -119,7 +119,7 @@ L90 corregido y se utiliza a cambio del valor del ruido residual corregido.
 Estándares  máximos permisibles de niveles de
 emisión de ruido expresados en decibeles ponderados A, dB(A),
 
-Elaborar Tabla
+Elaborar Tabla 1
 
 Cuando la emisión de ruido en un sector o subsector, trascienda a
 sectores o subsectores vecinos o inmersos en él, los estándares máximos permisibles
@@ -151,4 +151,80 @@ para este tipo de sectores.
 
 # Ruido ambiental
 
+_Aplicabilidad del Ruido Ambiental_: Los resultados obtenidos en las
+mediciones de ruido ambiental, deben ser utilizados para realizar el diagnóstico del
+ambiente por ruido. Los resultados se llevan a mapas de ruido los cuales permiten
+visualizar la realidad en lo que concierne a ruido ambiental, identificar zonas críticas y
+posibles contaminadores por emisión de ruido, entre otros. Las mediciones de ruido
+ambiental se efectúan de acuerdo con el procedimiento estipulado en los Capítulos II y
+III del Anexo 3.
+
+_Intervalo de Tiempo de Referencia T_: Para la medida de los niveles de
+presión sonora continuo equivalente ponderado A, -LAeq,T -, se establece como intervalo
+de tiempo de referencia -T, catorce (14) horas para el horario diurno y diez (10) horas
+para el horario nocturno, obteniéndose así los respectivos niveles, LAeq,d, diurno y LAeq,n, nocturno
+independientes el uno del otro. Para las medid as de ruido en los intervalos de tiempo de
+referencia se debe utilizar la metodología de medición del intervalo de tiempo de
+medida unitario (por hora).
+
+_Intervalo de Largo Plazo de Tiempo de Medida T_: Se establece un (1)
+año calendario como el intervalo de largo plazo de tiempo de medida -T. No obstante, si
+las aplicaciones del estudio ambiental que se realice son para períodos inferiores a un
+(1) año; como en el caso de eventos especiales como carnavales, altas temporadas de
+turismo, ferias y fiestas, entre otros, este intervalo de tiempo puede reducirse y deberá
+especificarse claramente. Se debe escoger de modo que se cubran las variaciones de
+la emisión de ruido.
+
+Estándares máximos permisibles
+de niveles de ruido ambiental expresados en decibeles ponderados A, dB(A).
+
+Elaborar tabla 2
+
+Se definen como v ías de alta circulación vehicular las
+contempladas en la Ley 769 de 2002 como vías troncales, autopistas, vías arterias y
+vías principales.
+
+En los sectores y/o subsectores donde los estándares máximos
+permisibles de ruido ambiental de la Tabla 2, son superados a causa de fuentes de
+emisión naturales, sin que exista intervención del hombre, los estándares máximos
+permisibles de ruido ambiental son los niveles de ruido naturales, como en el caso de
+cascadas, sonidos de animales en zonas o parques naturales.
+
+_Informe Técnico_: Los informes técnicos de las mediciones de emisión de
+ruido y ruido ambiental, deben contener como mínimo la siguiente información:
+
+- Fecha de la medición, hora de inicio y de finalización.
+- Responsable del informe (Información mínima de quien lo hace).
+- Ubicación de la medición
+- Propósito de la medición.
+- Norma utilizada (Si esta resolución u otra norma, en caso de ser otra especificar
+razones)
+- Tipo de instrumentación utilizado.
+- Equipo de medición utilizado, incluyendo números de serie.
+- Datos de calibración, ajuste del instrumento de medida y fecha de vencimiento
+del certificado de calibración del pistófono.
+- Procedimiento de medición utilizado.
+- En caso de no ser posible la medición del ruido residual, las razones por las
+cuales no fue posible apagar la fuente.
+- Condiciones predominantes.
+- Condiciones atmosféricas (dirección y velocidad del viento, lluvia, temperatura,
+presión atmosférica, humedad).
+- Procedimiento para la medición de la velocidad del viento.
+- Naturaleza / estado del terreno entre la fuente y el receptor; descripción de las
+condiciones que influyen en los resultados: acabados de la superficie, geometría,
+barreras y métodos de control existentes, entre otros.
+- Resultados numéricos y comparación con la normatividad aplicada.
+- Descripción de los tiempos de medición, intervalos de tiempos de medición y de
+referencia, detalles del muestreo utilizado.
+- Variabilidad de la(s) fuente(s).
+- Descripción de las fuentes de sonido existentes, datos cualitativos.
+- Reporte de memoria de cálculo (incertidumbre, ajustes, aporte de ruido, entre
+otros).
+- Conclusiones y recomendaciones.
+- Croquis detallado que muestre la posición de las fuentes de sonido, objetos
+relevantes y puntos de observación y medición.
+- Copia de los certificados de calibración electrónica de los equipos.
+Estos informes deben estar disponibles para su revisión y evaluación por parte de las
+autoridades competentes. En el Anexo 4 se presenta un modelo de formato para la
+elaboración del informe técnico de medición de ruido.
 
