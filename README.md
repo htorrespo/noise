@@ -531,7 +531,7 @@ vías troncales, autopistas, vías arterias y vías principales.
 
 # ANEXO 2
 
-## Determminacion de los valores de ajuste K
+## Determinacion de los valores de ajuste K
 
 1. La corrección de nivel KS se aplica de la siguiente manera:
 
@@ -615,7 +615,7 @@ temporal Impulso (Impulse; en ingles), promediado en el tiempo Ti, LAI.
 
 ## Procedimientos de medicion
 
-### Capitulo I procediomiento de medicion para emisiones de ruido
+### Capitulo I procedimiento de medicion para emisiones de ruido
 
 a) La determinación del nivel de presión sonora se realiza y expresa en decibeles
 corregidos por frecuencia conforme a la curva de ponderación normalizada tipo A dB(A).
