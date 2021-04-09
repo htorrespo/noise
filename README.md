@@ -125,12 +125,15 @@ Elaborar Tabla 1
 
 | Sector | Subsector | Dia dB(A) | Noche dB(A) |
 |--------|-----------|:---------:|:-----------:|
-|Sector A. Tranquilidad y Silencio | Hospitales bibliotecas, guarderías, sanatorios, hogares geriátricos. | 55 | 50 |
-|Sector B. Tranquilidad y Ruido Moderado | Zonas residenciales o exclusivamente destinadas para desarrollo habitacional, hotelería y hospedajes. | 65 | 55 |
-|Sector B. Tranquilidad y Ruido Moderado | Universidades, colegios, escuelas, centros de estudio e investigación.| 65 | 55 |
-|Sector B. Tranquilidad y Ruido Moderado | Parques en zonas urbanas diferentes a los parques mecánicos al aire libre.| 65 | 55 |
-|Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos industriales, como industrias en general, zonas portuarias, parques industriales, zonas francas.| 75 | 75 |
-
+| Sector A. Tranquilidad y Silencio | Hospitales bibliotecas, guarderías, sanatorios, hogares geriátricos. | 55 | 50 |
+| Sector B. Tranquilidad y Ruido Moderado | Zonas residenciales o exclusivamente destinadas para desarrollo habitacional, hotelería y hospedajes. | 65 | 55 |
+| Sector B. Tranquilidad y Ruido Moderado | Universidades, colegios, escuelas, centros de estudio e investigación.| 65 | 55 |
+| Sector B. Tranquilidad y Ruido Moderado | Parques en zonas urbanas diferentes a los parques mecánicos al aire libre.| 65 | 55 |
+| Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos industriales, como industrias en general, zonas portuarias, parques industriales, zonas francas.| 75 | 75 |
+| Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos comerciales, como centros comerciales, almacenes, locales o instalaciones de tipo comercial, talleres de mecánica automotriz e industrial, centros deportivos y recreativos, gimnasios, restaurantes, bares, tabernas, discotecas, bingos, casinos. | 70 | 60 |
+|Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos de oficinas. | 65 | 55 |
+|Sector C. Ruído Intermedio Restringido | Zonas con usos institucionales. | 65 | 55 |
+|Sector C. Ruído Intermedio Restringido | Zonas con otros usos relacionados, como parques mecánicos al aire libre, áreas destinadas a espectáculos públicos al aire libre. | 80 | 75 |
 
 
 Cuando la emisión de ruido en un sector o subsector, trascienda a
