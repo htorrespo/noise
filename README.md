@@ -509,10 +509,15 @@ resultado de la medición es obtenido mediante la siguiente expresión:
 Donde:
 
 LAeq = Nivel equivalente resultante de la medición.
+
 LN = Nivel equivalente medido en la posición del micrófono orientada en sentido norte
+
 LO = Nivel equivalente medido en la posición del micrófono orientada en sentido oeste
+
 LS = Nivel equivalente medido en la posición del micrófono orientada en sentido sur
+
 LE = Nivel equivalente medido en la posición del micrófono orientada en sentido este
+
 LV = Nivel equivalente medido en la posición del micrófono orientada en sentido vertical
 
 En el respectivo informe de resultados se debe especificar claramente la altura y
