@@ -134,7 +134,9 @@ emisión de ruido expresados en decibeles ponderados A, dB(A)*
 | Sector C. Ruído Intermedio Restringido | Zonas con otros usos relacionados, como parques mecánicos al aire libre, áreas destinadas a espectáculos públicos al aire libre. | 80 | 75 |
 | Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | Residencial suburbana. | 55 | 50 |
 | Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | Rural habitada destinada a explotación agropecuaria. | 55 | 50 |
-| Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | 55 | 50 |
+| Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | Zonas de Recreación y descanso, como parques naturales y reservas naturales. | 55 | 50 |
+
+
 
 Cuando la emisión de ruido en un sector o subsector, trascienda a
 sectores o subsectores vecinos o inmersos en él, los estándares máximos permisibles
@@ -206,7 +208,7 @@ de niveles de ruido ambiental expresados en decibeles ponderados A, dB(A)*
 | Sector C. Ruído Intermedio Restringido | Zonas con otros usos relacionados, como parques mecánicos al aire libre, áreas destinadas a espectáculos públicos al aire libre. | 80 | 70 |
 | Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | Residencial suburbana. | 55 | 45 |
 | Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | Rural habitada destinada a explotación agropecuaria. | 55 | 45 |
-| Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | 55 | 45 |
+| Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | Zonas de Recreación y descanso, como parques naturales y reservas naturales. | 55 | 45 |
 
 
 
