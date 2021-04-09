@@ -336,7 +336,7 @@ hipotético correspondiente a la misma cantidad de energía acústica que el rui
 considerado, en un punto determinado durante un período de tiempo T y su expresión
 matemática es:
 
-<img src="https://latex.codecogs.com/svg.latex?\inline&space;\large&space;L_{eq}&space;=&space;10\&space;log&space;\left&space;[&space;\frac{1}{T}&space;\sum&space;t_1&space;10^{L_i/10}&space;\right&space;]" title="\large L_{eq} = 10\ log \left [ \frac{1}{T} \sum t_1 10^{L_i/10} \right ]" />
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L_{eq}&space;=&space;10\&space;log&space;\left&space;[&space;\frac{1}{T}&space;\sum&space;t_1&space;10^{L_i/10}&space;\right&space;]" title="\huge L_{eq} = 10\ log \left [ \frac{1}{T} \sum t_1 10^{L_i/10} \right ]" />
 
 Complementar ...
 
