@@ -336,7 +336,7 @@ hipotético correspondiente a la misma cantidad de energía acústica que el rui
 considerado, en un punto determinado durante un período de tiempo T y su expresión
 matemática es:
 
-<img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L_{eq}&space;=&space;10\&space;log&space;\left&space;[&space;\frac{1}{T}&space;\sum&space;t_1&space;10^{L_i/10}&space;\right&space;]" title="\huge L_{eq} = 10\ log \left [ \frac{1}{T} \sum t_1 10^{L_i/10} \right ]" />
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L_{eq}&space;=&space;10\&space;log&space;\left&space;[&space;\frac{1}{T}&space;\sum&space;t_1&space;10^{L_i/10}&space;\right&space;]" title="\huge L_{eq} = 10\ log \left [ \frac{1}{T} \sum t_i 10^{L_i/10} \right ]" />
 
 Donde:
 
@@ -377,8 +377,159 @@ respecto a otro valor de la misma, tomado como referencia.
 _Nivel de presión sonora (Lp) (dB)_: Es la cantidad expresada en decibeles y calculada
 según la siguiente ecuación:
 
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L_{p}(dB)&space;=&space;20\&space;log\&space;\frac{P}{P_0}" title="\huge L_{p}(dB) = 20\ log\ \frac{P}{P_0}" />
 
-Complementar ...
+Donde:
+
+P = valor cuadrático medio de la presión sonora.
+
+P0 = presión sonora de referencia, en el aire. (2x10^-5 Pascales)
+
+_Nivel sonoro_: Es el nivel de presión sonora obtenido mediante las redes de
+ponderación A, B o C. La presión de referencia es 2 x10^-5 Pa.
+
+_Norma_: Solución que se adopta para resolver un problema específico, así la norma es
+una referencia respecto a la cual se juzgará un tema específico o una función y es el
+resultado de una decisión colectiva y razonada. La NORMA es un documento resultado
+del trabajo de muchas personas por mucho tiempo y la NORMALIZACIÓN es la
+actividad conducente a la elaboración, aplicación, y mejoramiento de las normas.
+
+_Norma de emisión de ruido_: Es el valor máx imo permisible de presión sonora, definido
+para una fuente, por la autoridad ambiental competente, con el objeto de cumplir la
+norma de ruido ambiental.
+
+_Norma de ruido ambiental_: Es el valor establecido por la autoridad ambiental
+competente, para mantener un nivel permisible de presión sonora, según las
+condiciones y características de uso del sector, de manera tal que proteja la salud y el
+bienestar de la población expuesta, dentro de un margen de seguridad.
+
+_Octava_: Intervalo entre dos frecuencias cuya relación es 2. Es corriente medir en
+octavas el intervalo que separa dos frecuencias cualesquiera; para ello, basta hallar el
+logaritmo en base 2 de la relación de frecuencias.
+
+_Paramento_: Cada una de las dos caras de una pared.
+
+_Pascal (Pa)_: Unidad de presión en el sistema MKS equivalente a: 1 Newton / m2 = 10
+barias.
+
+_Plan de Ordenamiento Territorial (POT)_: Instrumento básico para desarrollar el
+proceso de ordenamiento del territorio municipal y se define como el conjunto de
+objetivos, directrices, políticas, estrategias, metas, programas, actuaciones y normas
+adoptadas para orientar y administrar el desarrollo físico del territorio y la utilización del
+suelo.
+
+_Pistófono_: Es una pequeña cavidad provista de un pistón con movimiento de vaivén y
+desplazamiento medible, que permite establecer una presión conocida en el interior de
+la cavidad. Generalmente utilizado para efectuar calibraciones de sonómetros.
+
+_Pito_: Instrumento de metal, que se hace sonar mecánicamente en los automóviles y
+otros artefactos.
+
+_Presión sonora_: Es la diferencia entre la presión total instantánea en un punto cuando
+existe una onda sonora y la presión estática en dicho punto.
+
+_Pretil_: Murete de piedra u otra materia que se pone en los puentes y en otros lugares
+para preservar de caídas.
+
+_Reflexión_: Es el fenómeno por el cual una onda después de incidir sobre una
+superficie, se propaga en el mismo medio con sentido diferente al anterior. El rayo
+reflejado forma con la normal a la superficie reflectora el mismo ángulo que forma el
+rayo incidente con dicha normal.
+
+_Ruido acústico_: Es todo sonido no deseado por el receptor. En este concepto están
+incluidas las características físicas del ruido y las psicofisiológicas del receptor, un
+subproducto indeseable de las actividades normales diarias de la sociedad.
+
+_Ruido de Baja Frecuencia_: Es aquel que posee una energía acústica significante en el
+intervalo de frecuencias de 8 a 100 Hz. Este tipo de ruido es típico en grandes motores
+diesel de trenes, barcos y plantas de energía y, puesto que este ruido es difícil de
+amortiguar, se extiende fácilmente en todas direcciones y puede ser oído a muchos
+kilómetros.
+
+_Ruido de fondo_: Ruido total de todas las fuentes de interferencia en un sistema
+utilizado para producción, medida o registro de una señal, independiente de la
+presencia de la señal, incluye ruido eléctrico de los equipos de medida. El ruido de
+fondo se utiliza algunas veces para expresar el nivel medido cuando la fuente específica
+no es audible y, a veces, es el valor de un determinado parámetro de ruido, tal como el
+L90 (nivel excedido durante el 90% del tiempo de medición).
+
+_Ruido específico_: Es el ruido procedente de cualquier fuente sometida a investigación.
+Dicho ruido es un componente del ruido ambiental y puede ser identificado y asociado
+con el foco generador de molestias.
+
+_Ruido Impulsivo_: Es aquel en el que se presentan variaciones rápidas de un nivel de
+presión sonora en intervalos de tiempo mínimos, es breve y abrupto, por ejemplo,
+troqueladoras, pistolas, entre otras.
+
+_Ruido residual_: Ruido total cuando los ruidos específicos en consideración son
+suspendidos. El ruido residual es el ruido ambiental sin ruido específico. No debe
+confundirse con el ruido de fondo.
+
+
+_Ruido Tonal_: Es aquél que manifiesta la presencia de componentes tonales, es decir,
+que mediante un análisis espectral de la señal en 1/3 (un tercio) de octava, si al menos
+uno de los tonos es mayor en 5 dBA que los adyacentes, o es claramente audible, la
+fuente emisora tiene características tonales. Frecuentemente las máquinas con partes
+rotativas tales como motores, cajas de cambios, ventiladores y bombas, crean tonos.
+Los desequilibrios o impactos repetidos causan vibraciones que, transmitidas a través
+de las superficies al aire, pueden ser oídos como tonos.
+
+_Sirena_: Pito que se oye a mucha distancia y que se emplea en los buques, automóviles,
+fábricas, etc., para avisar.
+
+_Sonido_: Sensación percibida por el órgano auditivo, debida generalmente a la
+incidencia de ondas de comprensión (longitudinales) propagadas en el aire. Por
+extensión se aplica el calificativo del sonido, a toda perturbación que se propaga en un
+medio elástico, produzca sensación audible o no.
+
+_Sonómetro_: Es un instrumento de medición de presión sonora, compuesto de
+micrófono, amplificador, filtros de ponderación e indicador de medida, destinado a la
+medida de niveles sonoros, siguiendo unas determinadas especificaciones.
+
+_Tercios de Octava_: Tercera parte de una banda de octava y grupo de frecuencias en
+torno a una banda central que cumplen la relación f2 = 2^1/3 x f1 y fc = fc (f1 x f2)^1/2 son las
+frecuencias centrales, que toman valores normalizados según la Norma ISO-266-75.
+Tono puro: 1) Es una onda sonora cuya presión sonora instantánea es una función
+sinusoidal simple del tiempo y 2) Es una sensación sonora caracterizada por tener una
+única altura tonal.
+
+_Tonos en el Ruido (tonalidad)_: Los tonos molestos pueden verse generados de dos
+maneras: Frecuentemente las máquinas con partes rotativas tales como motores, cajas
+de cambios, ventiladores y bombas, crean tonos. Los desequilibrios o impactos
+repetidos causan vibraciones que, transmitidas a través de las superficies al aire,
+pueden ser oídos como tonos. También pueden generar tonos los flujos pulsantes de
+líquidos o gases que se producen por causa de procesos de combustión o restricciones
+de flujo.
+
+_Umbral de audición_: Es la mínima presión sonora eficaz que debe tener una señal
+para dar origen a una sensación auditiva, en ausencia de todo ruido. Se expresa
+generalmente en dB.
+
+
+_Unidad de medida_: Magnitud particular, definida y adoptada por convenio, con la cual
+son comparadas otras magnitudes del mismo tipo para expresar la cantidad relativa a esa
+magnitud. Las unidades de medida tienen asignados convencionalmente nombres y
+símbolos. Las unidades de las magnitudes de la misma dimensión pueden tener los
+mismos nombres y símbolos aún cuando las magnitudes no sean del mismo tipo.
+
+_Vehículo_: Todo aparato montado sobre ruedas que permite el transporte de personas,
+animales o cosas de un punto a otro por vía terrestre pública o privada abierta al
+público.
+
+_Vía_: Zona de uso público o privado, abierta al público, destinada al tránsito de
+vehículos, personas y animales.
+
+_Vía arteria_: Vía de un sistema vial urbano con prelación de circulación de tránsito sobre
+las demás vías, con excepción de la vía férrea y la autopista.
+
+_Vía principal_: Vía de un sistema con prelación de tránsito sobre las vías ordinarias.
+Vía ordinaria: La que tiene tránsito subordinado a las vías principales.
+
+_Vía troncal_: Vía de dos (2) calzadas con ocho o más carriles y con destinación
+exclusiva de las calzadas interiores para el tránsito de servicio público masivo.
+Vías de alta circulación vehicular: Las contempladas en la Ley 769 de 2002 como
+vías troncales, autopistas, vías arterias y vías principales.
+
 
 # ANEXO 2
 
@@ -595,9 +746,6 @@ resultado de la medición es obtenido mediante la siguiente expresión:
 
 <img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L_{Aeq}&space;=&space;10\&space;log&space;\left&space;[&space;\frac{1}{5}(10^{L_N/10}&space;&plus;&space;10^{L_O/10}&space;&plus;&space;10^{L_S/10}&space;&plus;&space;10^{L_E/10}&space;&plus;&space;10^{L_V/10}&space;\right&space;]" title="\huge L_{Aeq} = 10\ log \left [ \frac{1}{5}(10^{L_N/10} + 10^{L_O/10} + 10^{L_S/10} + 10^{L_E/10} + 10^{L_V/10} \right ]" />
 
-<!--
-<img src="https://latex.codecogs.com/svg.latex?\large&space;L_{Aeq}=10log((1/5)(10^{L_N/10}+10^{L_O/10}+10^{L_S/10}+10^{L_E/10}+10^{L_V/10}))" title="\large L_{Aeq} = 10log((1/5)(10^{L_N/10}+10^{L_O/10}+10^{L_S/10}+10^{L_E/10}+10^{L_V/10}))"/>
--->
 
 Donde:
 
