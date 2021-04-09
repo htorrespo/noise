@@ -524,5 +524,327 @@ En el respectivo informe de resultados se debe especificar claramente la altura 
 distancia horizontal de las mediciones, de tal manera que permitan la repetibilidad de
 las mismas en el futuro.
 
+d) Para la medición de los ruidos ambientales, residuales o procedentes de fuentes
+específicas para aspectos ambientales y con el fin de prevenir posibles errores de
+medición se adoptan las siguientes medidas:
+
+El micrófono siempre se debe proteger con la pantalla antiviento y se coloca sobre un
+trípode o dispositivo adecuado para su montaje, a la altura definida.
+
+Se mide la velocidad del viento y si ésta es superior a 3 m/s, se procede de acuerdo con
+el siguiente parágrafo.
+
+*La velocidad del viento se debe medir utilizando un anemómetro o un
+dispositivo medidor de velocidad del viento, si está es mayor a tres metros por segundo
+(3 m/s), se debe utilizar una pantalla antiviento adecuada de acuerdo con la velocidad
+del viento medida, y aplicar la respectiva corrección de acuerdo con las curvas de
+respuesta que el fabricante de las pantallas antiviento y micrófonos suministra.*
+
+No se deben desarrollar mediciones en condiciones de lluvia, de pavimentos húmedos
+cuando se esté en cercanías o sobre vías de transito vehicular.
+
+e) Para corregir los niveles equivalentes por tonos y por impulsividad se debe proceder
+como se especifica en el Anexo 2 de esta Resolución.
+
+f) Para desarrollar las mediciones, el respectivo sonómetro se debe ajustar o calibrar
+de acuerdo con las instrucciones del fabricante utilizando el calibrador o pistófono. Este
+procedimiento se debe ejecutar antes y después de efectuar las mediciones.
+
+g) Si por alguna razón se desea estimar el aporte que cualquier fuente específica hace
+al ambiente, se procede de la siguiente manera: con la fuente específica en
+funcionamiento se efectúa una medición de ruido ambiental a cuatro (4) metros de
+altura y a una distancia de tres (3) a cuatro (4) metros de la fuente en sentido horizontal,
+instalando el medidor de sonido frente a la fuente y procediendo de acuerdo con lo
+estipulado en este anexo para obtener una medida en una hora diurna o nocturna
+según el caso, luego se determina el ruido residual correspondiente, los resultados se
+corrigen y se restan logarítmicamente, obteniéndose así el aporte que la fuente hace al
+medio ambiente.
+
+
+## Capitulo III Procedimiento para determinacion del numero de puntos y de los tiempos de medicion para ruido ambiental
+
+
+Para la determinación del número de puntos y de los tiempos de medición se
+recomienda aplicar la siguiente metodología:
+
+Definir claramente los objetivos del estudio.
+
+Realizar un estudio y evaluación rápida de la(s) ciudad(es) y de la(s) zona(s) a estudiar.
+
+Determinar las áreas donde se deben hacer las mediciones.
+
+Establecer una grilla o retícula sobre estos sectores.
+
+Determinar las distancias máximas para ubicación de sitios de medida.
+
+Ubicar los sitios de medida.
+
+Establecer el número de horas diurnas y nocturnas durante las cuales se efectúa la
+toma de mediciones.
+
+Establecer los horarios de medición.
+
+Establecer el número de días por semana y el número de semanas por mes durante las
+cuales se efectúan las mediciones.
+
+Determinar el número de meses al año durante los cuales se desarrollan mediciones.
+
+Establecer otras actividades a desarrollar simultáneamente con la tarea de mediciones.
+
+### Definir claramente los objetivos del estudio
+
+La autoridad ambiental correspondiente debe especificar claramente los objetivos que
+motivan la realización del estudio a ejecutar.
+
+Para la determinación de estos objetivos es necesario tener en cuenta que el objetivo
+final del estudio no es la realización de uno o varios mapas, esto es solo una
+herramienta que aporta al buen desarrollo, logro y éxito del proyecto para el cual se
+efectúa el estudio.
+
+Para la determinación de los objetivos se debe tener en cuenta, de una manera muy
+especial, el alcance, el objeto y el artículo 23 de esta resolución. Para el logro de estos
+objetivos se debe incluir la realización de los mapas de ruido de las zonas de interés,
+como un instrumento que permite visualizar e l estado ambiental de contaminación por
+ruido y proyectar soluciones a las problemáticas generales encontradas,.
+
+### Realizar un estudio y evaluación rápidos de la(s) ciudad(es) y de la(s) zona(s) o area(s) a estudiar.
+
+La autoridad ambiental es la encargada de efectuar un estudio y evaluación rápida
+sobre la situación general en que se encuentra la respectiva ciudad en cuanto se refiere
+a la contaminación por ruido, partiendo de la respectiva distribución de usos del suelo,
+de los planes de ordenamiento territorial existentes, de la sectorización y
+subsectorización establecida en la Tabla 2 de esta resolución, así como de las
+tendencias, costumbres y polos de desarrollo que presente la respectiva ciudad o área
+en consideración. Este estudio y evaluación rápida se efectuará inicialmente sobre
+cartografía actualizada existente y luego se debe corroborar por medio de un recorrido
+de observación y comprobación.
+
+Con base en el estudio y evaluación rápidos se identifican posibles zonas y sectores
+que posean problemas por contaminación ambiental de ruido, o así no los tengan,
+presenten alguna característica especial de interés en lo que respecta a ruido, estas
+zonas o sectores tienen que ser tenidos en cuenta al momento de determinar los sitios
+donde se deben hacer las mediciones.
+
+### Determinar las áreas donde se deben hacer las mediciones.
+
+Para la determinación de las áreas donde se deben hacer las mediciones es necesario,
+tener en cuenta la Tabla 2 de esta resolución con el fin de cubrir todos los sectores y
+subsectores en ella establecidos; en caso de ser necesario.
+
+Con base en lo anterior, las autoridades ambientales establecerán las áreas donde
+deben efectuar las mediciones de ruido para desarrollar los respectivos mapas que
+muestren el estado actual de la incidencia del ruido en el medio ambiente. Además de
+los usos del suelo y de las actividades desarrolladas, es necesario tener muy presente
+las características generales de cada área, como por ejemplo densidades
+poblacionales, densidades de trafico, densidades de comercio, densidades o
+aglomeraciones industriales, densidades de edificaciones, horas del día y/o de la noche
+de mayores y menores actividades, en forma similar para los diferentes días de la
+semana, las diferentes semanas del mes, los diferentes meses del año y las respectivas
+temporadas en las cuales se efectúen ciertas actividades que solo ocurren en esas
+temporadas.
+
+Una vez efectuada la selección, con sus respectivas justificaciones, de las áreas donde
+se deben desarrollar las mediciones es necesario determinar en que sitios se hacen las
+mismas.
+
+### Establecer una grilla o retícula sobre estos sectores
+
+Sobre cada una de las áreas seleccionadas se establecen los usos permitidos del
+suelo, y teniendo en cuenta estos límites se hace una retícula o grilla cuyo
+espaciamiento de vértices será definido por la autoridad competente de acuerdo con las
+consideraciones efectuadas en el titulo anterior sobre características generales de cada
+área.
+
+Se sugiere que para sectores rurales donde hay ausencia de instalaciones o no hay
+asentamientos humanos, estas grillas se hagan con distancias entre 3 y 5 Km. como
+máximo entre vértices, en áreas donde se presentan grandes aglomeraciones de
+personas y/o de fuentes de ruido se aconseja hacer retículas de lados pequeños,
+máximo 250 m y en los demás sitios se sugiere como máximo 1000 m.
+
+### Determinar las distancias máximas para ubicación de sitios de medida
+
+Establecida la respectiva grilla en cada sector, y analizando las actividades que en ella
+se desarrollan y su comportamiento en lo que respecta a la generación de ruido, la
+autoridad competente determina cada cuantos vértices de la grilla se deben fijar los
+respectivos sitios para la toma de medidas y cual de ellos es el punto de inicio o marco
+de referencia para determinar los demás.
+
+No obstante, si existe(n) algún(os) punto(s) que no esté(n) en los vértices de la grilla y
+que por alguna razón requiera(n) ser evaluado(s) y medido(s), se inserta(n) dentro de
+los puntos a medir y se continua con el respectivo proceso dentro de este
+procedimiento.
+
+### Ubicar los sitios de medida
+
+Habiendo determinado, sobre la retícula, cuales son los puntos donde se debe tomar
+las mediciones, es necesario ubicar el sitio de medida, de tal manera que pueda ser
+relocalizado nuevamente con exactitud para efectos de tomar nuevas mediciones o de
+tener que corroborar datos.
+
+Para lograr esto, se debe hacer un recorrido real, analizar el área alrededor del punto
+determinado en la grilla y ubicar un sitio seguro que cumpla con lo especificado en esta
+resolución en cuanto a distancias y ubicación respecto de fachadas, y que además
+presente características óptimas para efectuar las mediciones y brinde seguridad para
+quienes desarrollan la labor de campo.
+
+Los sitios de medición no necesariamente deben ubicarse sobre cruces viales, pueden
+establecerse en sitios distintos siempre que cumplan con los requisitos establecidos en
+esta resolución.
+
+Una vez determinado el punto físico, se recomienda georeferenciarlo y describirlo
+físicamente, para luego poder localizarlo, reconocerlo, identificarlo y ubicarlo con toda
+exactitud en el momento de efectuar las mediciones y luego cuando se requiera para
+las posteriores revisiones y actualizaciones.
+
+### Establecer el número de horas diurnas y nocturnas durante las cuales se efectúa la toma de mediciones.
+
+De acuerdo con las consideraciones y motivaciones que las autoridades ambientales
+han tenido en cuenta para determinar las áreas donde se deben hacer las mediciones,
+con los criterios para la selección y ubicación de sitios de medida, con la fluctuación
+durante el período diurno y nocturno de las actividades que generen o no ruido, las
+autoridades ambientales establecen los períodos de máxima y de mínima emisión de
+ruido (recordar que el parámetro de medida Leq es un promedio del ruido donde se
+incluyen tanto los periodos de máxima, como los intermedios y los de mínima
+generación de ruido) y con base en ellos determinan para cada sitio de medida el
+número de horas que en cada período diurno y nocturno deben efectuar mediciones y
+con estos resultados establecen los respectivos LAReq,d y LAReq,n, para el día de
+medición. El número de horas de medición por período diurno o nocturno, en cada sitio,
+no debe ser inferior a 2.
+
+### Establecer los horarios de medición
+
+Con los puntos determinados, con los sitios de medición localizados, con el numero de
+horas diarias a medir, es necesario que las autoridades ambiéntales determinen los
+horarios en los cuales se efectúan las mediciones en cada punto, se recomienda no
+hacer mediciones de mas de una hora continua en cada punto, a menos que se haya
+determinado mas de 7 horas diurnas o 5 nocturnas por día o noche respectivamente.
+
+### Establecer el número de días por semana y el numero de semanas por mes durante los cuales se efectúan las mediciones
+
+El numero mínimo de días a la semana en los cuales se efectúen las mediciones es de
+dos (2), uno de ellos tiene que ser un domingo, y el número mínimo de semanas por
+mes a medir es una (1), sin embargo las consideraciones efectuadas para determinar
+las áreas donde se deben hacer las mediciones dan la base fundamental sobre la cual
+las autoridades ambientales determinen estos dos parámetros.
+
+### Determinar el número de meses al año durante los cuales se desarrollan las mediciones.
+
+El intervalo de largo plazo que esta resolución ha determinado es de un año, por lo
+tanto las autoridades ambientales deben determinar, para cada punto, el número de
+meses y los meses en los cuales, durante el año, se deben tomar las mediciones. Esta
+determinación obedece a los diferentes tipos de actividades, ciclos, períodos de
+operación o funcionamiento, estados de máxima y mínima actividad, temporadas, entre
+otros, que se den dentro del respectivo año.
+
+### Establecer otras actividades a desarrollar simultáneamente con la tarea de mediciones.
+
+Se recomienda que durante el proceso de planificación de las mediciones, las
+autoridades ambientales programen otro tipo de actividades que los encargados de
+efectuar las mediciones pueden ejecutar simultáneamente con esta actividad y que
+coadyuven a mejorar y clarificar la información recolectada.
+
+Tales actividades pueden contemplar la realización de encuestas a la población
+residente, la recolección de información geográfica, la recolección de información
+relacionada con posibles focos generadores de ruido, fuentes de ruido, tipos de tráfico,
+variaciones de tráfico, épocas más ruidosas durante el día o la noche, en períodos
+laborables o festivos, medidas que pueden mejorar el problema de ruido, u otro tipo de
+actividades en los respectivos sectores y que tengan relación directa con la generación
+y los efectos del ruido, entre otros muchos aspectos.
+
+Así mismo pueden programar actividades de recolección de información
+complementaria como son datos poblacionales, centros educativos, hospitales,
+instituciones, tipo de industrias, tipo de vías, centros de recreación y de espectáculos,
+datos de trafico y parque automotor, carreteras, parqueaderos, negocios, tipos de
+horarios de operación, cercanías a zonas muy ruidosas como por ejemplo aeropuertos,
+obras, terminales de transportes, denuncias por contaminación por ruido y acciones a
+las que dieron lugar.
+
+### Medición de los niveles de ruido
+
+Con la determinación de sitios, tiempos de medida diarios, semanales, mensuales y
+anuales, se establece el cronograma para la medición de los niveles de ruido en todos y
+cada uno de los sitios de medición y se determinan las fechas de inicio de las
+mediciones.
+
+### Presentación de resultados para cada punto de medida
+
+Los resultados de las medidas se deben presentar para cada punto en la forma como
+se estipula en esta resolución, es decir los Niveles corregidos de presión sonora
+continuo equivalente ponderados A, LRAeq,T, diurno y nocturno, los Niveles corregidos de
+presión sonora continuo equivalente ponderados A residuales LRAeq,T, Residual diurnos y
+nocturnos.
+
+Estos valores se deben, además, presentar para cada hora, día, semana, mes y año de
+medición en cada sitio de medida georeferenciado que la autoridad ambiental ha
+determinado.
+
+
+
+
+////////////////////
+_Informe Técnico_: Los informes técnicos de las mediciones de emisión de
+ruido y ruido ambiental, deben contener como mínimo la siguiente información:
+
+- Fecha de la medición, hora de inicio y de finalización.
+- Responsable del informe (Información mínima de quien lo hace).
+- Ubicación de la medición
+- Propósito de la medición.
+- Norma utilizada (Si esta resolución u otra norma, en caso de ser otra especificar
+razones)
+- Tipo de instrumentación utilizado.
+- Equipo de medición utilizado, incluyendo números de serie.
+- Datos de calibración, ajuste del instrumento de medida y fecha de vencimiento
+del certificado de calibración del pistófono.
+- Procedimiento de medición utilizado.
+- En caso de no ser posible la medición del ruido residual, las razones por las
+cuales no fue posible apagar la fuente.
+- Condiciones predominantes.
+- Condiciones atmosféricas (dirección y velocidad del viento, lluvia, temperatura,
+presión atmosférica, humedad).
+- Procedimiento para la medición de la velocidad del viento.
+- Naturaleza / estado del terreno entre la fuente y el receptor; descripción de las
+condiciones que influyen en los resultados: acabados de la superficie, geometría,
+barreras y métodos de control existentes, entre otros.
+- Resultados numéricos y comparación con la normatividad aplicada.
+- Descripción de los tiempos de medición, intervalos de tiempos de medición y de
+referencia, detalles del muestreo utilizado.
+- Variabilidad de la(s) fuente(s).
+- Descripción de las fuentes de sonido existentes, datos cualitativos.
+- Reporte de memoria de cálculo (incertidumbre, ajustes, aporte de ruido, entre
+otros).
+- Conclusiones y recomendaciones.
+- Croquis detallado que muestre la posición de las fuentes de sonido, objetos
+relevantes y puntos de observación y medición.
+- Copia de los certificados de calibración electrónica de los equipos.
+
+Estos informes deben estar disponibles para su revisión y evaluación por parte de las
+autoridades competentes. En el Anexo 4 se presenta un modelo de formato para la
+elaboración del informe técnico de medición de ruido.
+
+_Edificaciones_: Sin perjuicio de lo establecido en otros artículos de esta
+resolución, en todas las edificaciones, se debe exigir que se adopten las medidas
+preventivas necesarias, a fin de conseguir que las instalaciones auxiliares y
+complementarias de las edificaciones, tales como ascensores, equipos individuales o
+colectivos de refrigeración, puertas metálicas, puertas de garaje, funcionamiento de
+máquinas, estaciones de bombeo, transformación de energía eléctrica, electrógenos,
+sistemas de ventilación y extracción de aire, instrumentos musicales, animales
+domésticos y cualquier otro mecanismo, permanezcan con las precauciones de
+ubicación y aislamiento que garanticen que no se superen los estándares máximos
+permisibles de emisión de ruido, contemplados en la Tabla 1 de la presente resolución,
+y que no se transmitan al ambiente ruidos que superen los estándares de ruido
+ambiental establecidos en la Tabla 2 de esta resolución.
+
+En equipos instalados en patios y/o azoteas, que presenten afectación por ruido al
+ambiente, excediendo los estándares de emisión de ruido o de ruido ambiental
+permisibles establecidos en la presente resolución, se deben instalar sistemas de
+atenuación de ruido que aseguren el cumplimiento de los estándares permitidos.
+
+_Alarmas_: Las alarmas de seguridad instaladas en edificaciones no deben
+emitir al ambiente un nivel de ruido mayor de 85 dB(A) medidos a tres (3) metros de
+distancia en la dirección de máxima emisión. Para la medición del ruido emitido por
+alarmas instaladas en edificaciones, se debe proceder como se describe en el Capítulo
+I del Anexo 3, de la presente resolución, respetando la distancia de tres (3) metros.
+
+
 
 
