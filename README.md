@@ -9,9 +9,9 @@ If your needs are greater use an external LaTeX renderer like CodeCogs. Create a
 <img src="https://latex.codecogs.com/svg.latex?\LARGE&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\LARGE x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 -->
 
-# Apuntes de la Resolucion 627 de 7 de abril de 2006. 
+# Apuntes de la Resolucion 627 de 7 de abril de 2006
 
-*Por la cual se establece la norma nacional de emisión de ruido y ruido ambiental. Ministerio de Ambiente Vivienda y Desarrollo Territorial.*
+*Por la cual se establece la norma nacional de emisión de ruido y ruido ambiental. Ministerio de Ambiente Vivienda y Desarrollo Territorial. Colombia*
 
 # Definiciones
 
@@ -122,6 +122,10 @@ Estándares  máximos permisibles de niveles de
 emisión de ruido expresados en decibeles ponderados A, dB(A),
 
 Elaborar Tabla 1
+
+| Sector | Subsector | Dia dB(A) | Noche dB(A) |
+|--------|-----------|:---------:|:-----------:|
+{Sector A. Tranquilidad y Silencio | Hospitales bibliotecas, guarderías, sanatorios, hogares geriátricos. | 55 | 50 |
 
 Cuando la emisión de ruido en un sector o subsector, trascienda a
 sectores o subsectores vecinos o inmersos en él, los estándares máximos permisibles
