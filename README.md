@@ -129,10 +129,12 @@ emisión de ruido expresados en decibeles ponderados A, dB(A)*
 | Sector B. Tranquilidad y Ruido Moderado | Parques en zonas urbanas diferentes a los parques mecánicos al aire libre.| 65 | 55 |
 | Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos industriales, como industrias en general, zonas portuarias, parques industriales, zonas francas.| 75 | 75 |
 | Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos comerciales, como centros comerciales, almacenes, locales o instalaciones de tipo comercial, talleres de mecánica automotriz e industrial, centros deportivos y recreativos, gimnasios, restaurantes, bares, tabernas, discotecas, bingos, casinos. | 70 | 60 |
-|Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos de oficinas. | 65 | 55 |
-|Sector C. Ruído Intermedio Restringido | Zonas con usos institucionales. | 65 | 55 |
-|Sector C. Ruído Intermedio Restringido | Zonas con otros usos relacionados, como parques mecánicos al aire libre, áreas destinadas a espectáculos públicos al aire libre. | 80 | 75 |
-
+| Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos de oficinas. | 65 | 55 |
+| Sector C. Ruído Intermedio Restringido | Zonas con usos institucionales. | 65 | 55 |
+| Sector C. Ruído Intermedio Restringido | Zonas con otros usos relacionados, como parques mecánicos al aire libre, áreas destinadas a espectáculos públicos al aire libre. | 80 | 75 |
+| Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | Residencial suburbana. | 55 | 50 |
+| Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | Rural habitada destinada a explotación agropecuaria. | 55 | 50 |
+| Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | 55 | 50 |
 
 Cuando la emisión de ruido en un sector o subsector, trascienda a
 sectores o subsectores vecinos o inmersos en él, los estándares máximos permisibles
@@ -188,10 +190,26 @@ turismo, ferias y fiestas, entre otros, este intervalo de tiempo puede reducirse
 especificarse claramente. Se debe escoger de modo que se cubran las variaciones de
 la emisión de ruido.
 
-Estándares máximos permisibles
-de niveles de ruido ambiental expresados en decibeles ponderados A, dB(A).
+*Tabla 2. Estándares máximos permisibles
+de niveles de ruido ambiental expresados en decibeles ponderados A, dB(A)*
 
-Elaborar tabla 2
+| Sector | Subsector | Dia dB(A) | Noche dB(A) |
+|--------|-----------|:---------:|:-----------:|
+| Sector A. Tranquilidad y Silencio | Hospitales bibliotecas, guarderías, sanatorios, hogares geriátricos. | 55 | 45 |
+| Sector B. Tranquilidad y Ruido Moderado | Zonas residenciales o exclusivamente destinadas para desarrollo habitacional, hotelería y hospedajes. | 65 | 50 |
+| Sector B. Tranquilidad y Ruido Moderado | Universidades, colegios, escuelas, centros de estudio e investigación.| 65 | 50 |
+| Sector B. Tranquilidad y Ruido Moderado | Parques en zonas urbanas diferentes a los parques mecánicos al aire libre.| 65 | 50 |
+| Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos industriales, como industrias en general, zonas portuarias, parques industriales, zonas francas.| 75 | 70 |
+| Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos comerciales, como centros comerciales, almacenes, locales o instalaciones de tipo comercial, talleres de mecánica automotriz e industrial, centros deportivos y recreativos, gimnasios, restaurantes, bares, tabernas, discotecas, bingos, casinos. | 70 | 55 |
+| Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos de oficinas. | 65 | 50 |
+| Sector C. Ruído Intermedio Restringido | Zonas con usos institucionales. | 65 | 50 |
+| Sector C. Ruído Intermedio Restringido | Zonas con otros usos relacionados, como parques mecánicos al aire libre, áreas destinadas a espectáculos públicos al aire libre. | 80 | 70 |
+| Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | Residencial suburbana. | 55 | 45 |
+| Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | Rural habitada destinada a explotación agropecuaria. | 55 | 45 |
+| Sector D. Zona Suburbana o Rural de Tranquilidad y Ruído Moderado | 55 | 45 |
+
+
+
 
 Se definen como v ías de alta circulación vehicular las
 contempladas en la Ley 769 de 2002 como vías troncales, autopistas, vías arterias y
