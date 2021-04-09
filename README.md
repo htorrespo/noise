@@ -224,7 +224,68 @@ otros).
 - Croquis detallado que muestre la posición de las fuentes de sonido, objetos
 relevantes y puntos de observación y medición.
 - Copia de los certificados de calibración electrónica de los equipos.
+
 Estos informes deben estar disponibles para su revisión y evaluación por parte de las
 autoridades competentes. En el Anexo 4 se presenta un modelo de formato para la
 elaboración del informe técnico de medición de ruido.
+
+# ANEXO 1
+
+**Definiciones**
+
+
+_Acústica_: Rama de la ciencia que trata de las perturbaciones elásticas sonoras.
+Originalmente aplicada sólo a los sonidos audibles.
+
+_Ajuste (de un instrumento de medición)_: operación destinada a poner un instrumento
+de medición en estado de funcionamiento adecuado para su uso. El ajuste puede ser
+automático, semiautomático o manual.
+
+_Alarma_: Mecanismo que, por diversos procedimientos, tiene por función avisar de algo.
+
+_Ancho de banda_: Extensión del espectro de las frecuencias comprendidas en el interior
+de una banda. Se mide por la diferencia entre las frecuencias extremas de aquella.
+
+_Autopista_: Vía de calzadas separadas, cada una con dos (2) o más carriles, control
+total de acceso y salida, con intersecciones en desnivel o mediante entradas y salidas
+directas a otras carreteras y con control de velocidades mínimas y máximas por carril.
+
+_Banda de octava_: Es un grupo de frecuencias en torno a una banda central que
+cumplen la relación f2 = 2 f1 y además, fc = fc (f1x f2)^1/2  son las frecuencias centrales, que
+toman valores normalizados según la Norma ISO-266-75. La percepción del oído
+humano contiene aproximadamente 10 bandas de octava.
+
+Calibración: Conjunto de operaciones que establecen, bajo condiciones especificadas, la
+relación entre los valores de magnitudes indicados por un instrumento o sistema de
+medición, o valores representados por una medida materializada o un material de
+referencia y los correspondientes valores reportados por patrones. El resultado de la
+calibración permite tanto la asignación de valores a las indicaciones de la magnitud a
+medir como la determinación de las correcciones con respecto a las indicaciones. Una
+calibración también puede determinar otras propiedades metrológicas, tales como el
+efecto de las magnitudes influyentes. El resultado de una calibración puede ser registrado
+en un documento, frecuentemente denominado certificado de calibración o informe de
+calibración.
+
+_Calibrador_: Ver definición de Pistófono.
+
+
+_Campo sonoro_: Es la región del espacio en las que existen perturbaciones elásticas.
+
+_dB(A)_: Unidad de medida de nivel sonoro con ponderación frecuencial (A).
+
+_Decibel (dB)_: Décima parte del Bel, razón de energía, potencia o intensidad que
+cumple con la siguiente expresión: Log R = 1dB/10
+Donde R = razón de energía, potencia o intensidad
+
+_Emisión de Ruido_: Es la presión sonora que generada en cualesquiera condiciones,
+trasciende al medio ambiente o al espacio público.
+
+_Espacio público_: Conjunto de inmuebles públicos y los elementos arquitectónicos y
+naturales de los inmuebles privados, destinados por su naturaleza, por su uso o
+afectación, a la satisfacción de necesidades urbanas colectivas que trascienden, por
+tanto, los estándares de los intereses individuales de los habitantes.
+
+Complementar ...
+
+
 
