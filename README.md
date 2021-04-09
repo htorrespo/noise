@@ -780,7 +780,7 @@ determinado.
 
 
 
-
+<!--
 ////////////////////
 _Informe Técnico_: Los informes técnicos de las mediciones de emisión de
 ruido y ruido ambiental, deben contener como mínimo la siguiente información:
@@ -844,7 +844,7 @@ emitir al ambiente un nivel de ruido mayor de 85 dB(A) medidos a tres (3) metros
 distancia en la dirección de máxima emisión. Para la medición del ruido emitido por
 alarmas instaladas en edificaciones, se debe proceder como se describe en el Capítulo
 I del Anexo 3, de la presente resolución, respetando la distancia de tres (3) metros.
-
+-->
 
 
 
