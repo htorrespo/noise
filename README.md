@@ -499,8 +499,12 @@ parciales distribuidas en tiempos iguales, cada una de las cuales debe tener una
 posición orientada del micrófono, así: Norte, Sur, Este, Oeste y Vertical hacia arriba. El
 resultado de la medición es obtenido mediante la siguiente expresión:
 
-
+<!--
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;L{Aeq}&space;=&space;10\&space;log\&space;((1/5)\&space;(10\&space;^{L_N/10}&space;&plus;10\&space;^{L_O/10}&space;&plus;&space;10\&space;^{L_S/10}&space;&plus;&space;10\&space;^{L_E/10}&space;&plus;&space;10\&space;^{L_V/10}&space;))" title="\Large L{Aeq} = 10\ log\ ((1/5)\ (10\ ^{L_N/10} +10\ ^{L_O/10} + 10\ ^{L_S/10} + 10\ ^{L_E/10} + 10\ ^{L_V/10} ))" />
+-->
+
+<img src="https://latex.codecogs.com/svg.latex?L{Aeq}&space;=&space;10\&space;log\&space;((1/5)\&space;(10\&space;^{L_N/10}&space;&plus;10\&space;^{L_O/10}&space;&plus;&space;10\&space;^{L_S/10}&space;&plus;&space;10\&space;^{L_E/10}&space;&plus;&space;10\&space;^{L_V/10}&space;))" title="L{Aeq} = 10\ log\ ((1/5)\ (10\ ^{L_N/10} +10\ ^{L_O/10} + 10\ ^{L_S/10} + 10\ ^{L_E/10} + 10\ ^{L_V/10} ))" />
+
 
 Donde:
 
