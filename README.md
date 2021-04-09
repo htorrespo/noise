@@ -335,7 +335,7 @@ por debajo de f.
 Se determina la presencia o ausencia de componentes tonales, entre 20 a 125 Hz:
 
 - Si L < 8 dB(A), no hay componentes tonales.
-- Si 8 dB(A)  L  12 dB(A), hay componente tonal neto.
+- Si 8 dB(A) ≤ L ≤ 12 dB(A), hay componente tonal neto.
 - Si L > 12 dB(A), hay componente tonal fuerte.
 
 Se determina la presencia o ausencia de componentes tonales, entre 160 a 400 Hz:
