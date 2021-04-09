@@ -100,8 +100,6 @@ cualquier fuente se obtiene al restar logaritmicamente, el ruido residual correg
 valor del nivel de presión sonora corregido continuo equivalente ponderado A, LRAeq,T,
 como se expresa a continuación:
 
-<img src="https://latex.codecogs.com/svg.latex?\LARGE&space;Leq_{emision}&space;=&space;10\&space;log&space;(10&space;^{(LRAeq,1h)/10}&space;-\&space;10&space;^{(LRAeq,&space;1h,\&space;Residual)&space;/10})" title="\LARGE Leq_{emision} = 10\ log (10 ^{(LRAeq,1h)/10} -\ 10 ^{(LRAeq, 1h,\ Residual) /10})" />
-
 <img src="https://latex.codecogs.com/svg.latex?\inline&space;\huge&space;L_{eq_{emision}}&space;=&space;10\&space;log&space;(10&space;^{(L_{RAeq,1h})/10}&space;-\&space;10&space;^{(L_{RAeq,1h,Residual})/10})" title="\huge L_{eq_{emision}} = 10\ log (10 ^{(L_{RAeq,1h})/10} -\ 10 ^{(L_{RAeq,1h,Residual})/10})" />
 
 Donde:
