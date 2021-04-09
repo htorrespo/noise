@@ -292,12 +292,12 @@ Complementar ...
 ## Determminacion de los valores de ajuste K
 
 1. La corrección de nivel KS se aplica de la siguiente manera:
-2. 
+
 - Si el ruido proviene de las instalaciones de ventilación y climatización, bajas
 frecuencias:
 - 5 dB(A) en período diurno;
 - 8 dB(A) en período nocturno.
-- 
+
 2. La corrección de nivel KR por horarios se aplica de la siguiente manera:
 Si se desea calcular el nivel equivalente corregido ponderado por frecuencia A para el
 día y la noche LRAeq, dn, se efectúa la medición nocturna de ruido de la fuente específica,
@@ -318,8 +318,10 @@ lugar de la medición y durante el tiempo que estén presentes los respectivos i
 - Por percepción nula de componentes impulsivos: 0 dB(A).
 - Por percepción neta de componentes impulsivos: 3 dB(A).
 - Por percepción fuerte de componentes impulsivos: 6 dB(A).
+
 5. La manera detallada de evaluar la presencia de componentes tonales se presenta a
 continuación:
+
 - Se hace un análisis con resolución de 1/3 de octava.
 - Se calcula la diferencia:
 
@@ -409,4 +411,109 @@ medición se adoptan las siguientes medidas:
 trípode a la altura definida.
 - Se mide la velocidad del viento y si ésta es superior a 3 m/s, se procede de
 acuerdo con el parágrafo del Artículo 20.
+
+d) Se deben realizar dos (2) procesos de medición de al menos quince (15) minutos
+cada uno, como se especifica en el Artículo 5 de esta resolución; uno con la(s) fuente(s)
+ruidosa(s) funcionando durante el período de tiempo de mayor emisión o incidencia,
+para obtener el nivel de presión sonora continuo equivalente ponderado A, LAeq,1h, el
+cual se corregirá para obtener el nivel de emisión total LRAeq,1h y otro sin la(s) fuente(s)
+funcionando, para determinar el ruido residual, el cual también se debe corregir o
+ajustar para obtener el LRAeq,1h, Residual.
+
+
+Teniendo en cuenta la importancia que en la evaluación de estos problemas de ruido
+tiene el ruido residual, en caso de no poder definir con claridad los períodos de menor
+ruido residual, se deben considerar los comprendidos entre las 01:00 y las 05:00 horas
+del día, en caso que la actividad tenga un funcionamiento en período nocturno. En otras
+circunstancias, se selecciona el período de tiempo más significativo y si no es posible
+medir el ruido residual, se toma el nivel percentil L90, el cual también debe corregirse o
+ajustarse.
+
+e) El ruido residual (nivel de presión sonora continuo equivalente corregido ponderado
+A, LRAeq,1h, Residual) se mide con la(s) fuente(s) específica(s) apagada(s) y en el mismo
+sitio de la medición anterior, manteniendo invariables los condicionantes del entorno y
+durante el tiempo y forma estipulado en el Artículo 5 de ésta resolución y se corrige o
+ajusta de manera similar a como se corrigen los niveles de emisión total.
+
+f) Si la diferencia aritmética entre LRAeq,1h y LRAeq,1h, Residual es igual o inferior a 3 dB(A),
+se deberá indicar que el nivel de ruido de emisión (LRAeq,1h, Residual) es del orden igual o
+inferior al ruido residual.
+
+g) La emisión de ruido o aporte de una fuente, de acuerdo con el Artículo 8 de esta
+resolución, se calcula por la expresión:
+
+<img src="https://latex.codecogs.com/svg.latex?\LARGE&space;Leq_{emision}&space;=&space;10\&space;log\&space;(10\&space;^{LRAeq,1h/10}&space;\&space;-&space;\&space;10\&space;^{LRAeq,&space;1h,&space;residual&space;/10})" title="\LARGE Leq_{emision} = 10\ log\ (10\ ^{LRAeq,1h/10} \ - \ 10\ ^{LRAeq, 1h, residual /10})" />
+
+h) Para corregir los niveles equivalentes de emisión total y residual por tonos y por
+impulsividad se debe proceder como se especifica en el Anexo 2.
+
+i) Para desarrollar las mediciones, el respectivo sonómetro se debe ajustar o calibrar de
+acuerdo con las instrucciones del fabricante utilizando el calibrador o pistófono. Este
+procedimiento se debe ejecutar antes y después de efectuar las mediciones.
+
+Se debe definir la naturaleza del ruido: continuo, intermitente, impulsivo, existencia de
+tono puro, impulsividad, entre otros.
+
+Asegurarse que el sitio de medición corresponde con el que requiere la evaluación.
+
+Instalar el sonómetro en el trípode de tal manera que el micrófono esté orientado en la
+dirección de la(s) fuente(s) específica(s) y localizado como se especifica en el literal b
+anterior. Si la localización no es posible, el micrófono se ubicará en la máxima distancia
+horizontal, inferior a la estipulada y se efectuará la respectiva anotación y las causas
+que originan dicha situación.
+
+En el sitio de medición, en lo posible, únicamente debe estar el técnico que ejecuta las
+mediciones, de lo contrario es recomendable que haya el mínimo de personas, las
+cuales deben estar lo más separadas del instrumento de medida.
+
+El número mínimo de mediciones a ejecutar es 1 (uno), el cual consta de dos (2)
+procesos de medición como se especifica en el literal d, en el horario diurno o nocturno
+requerido, determinando en cada una como mínimo los parámetros definidos en esta
+resolución.
+
+No se efectúan mediciones con presencia de lluvia y si se llegaren a efectuar, sus
+resultados no son tenidos en cuenta.
+
+## Capitulo II Procedimiento de medicion para ruido ambiental
+
+a) La determinación del nivel de presión sonora continuo equivalente, se realiza y
+expresa en decibeles corregidos por frecuencia conforme a la curva de ponderación
+normalizada tipo A (dB(A)).
+
+b) Las medidas de niveles de ruido ambiental con ponderación A, se efectúan teniendo
+en consideración la norma ISO 1996 o aquella norma que la adicione, modifique o
+sustituya.
+
+c) En las zonas urbanas y de expansión urbana, el ruido ambiental se mide instalando
+el micrófono a una altura de cuatro (4) metros medidos a partir del suelo terrestre y a
+una distancia equidistante de las fachadas, barreras o muros existentes a ambos lados
+del punto de medición, si estos no existen en uno de los costados, el punto se sitúa a
+una distancia de cuatro (4) metros medidos horizontalmente desde el costado que las
+posea, si no existen en ninguno de los costados, se toma el punto equidistante entre los
+límites del espacio público correspondiente. Bajo ninguna circunstancia se pueden
+efectuar mediciones bajo puentes o estructuras similares.
+
+Cada medición con la distribución efectuada en los quince (15) minutos, según se
+estipula en el Artículo 5 de esta resolución, debe constar de cinco (5) mediciones
+parciales distribuidas en tiempos iguales, cada una de las cuales debe tener una
+posición orientada del micrófono, así: Norte, Sur, Este, Oeste y Vertical hacia arriba. El
+resultado de la medición es obtenido mediante la siguiente expresión:
+
+
+<img src="https://latex.codecogs.com/svg.latex?\LARGE&space;L{Aeq}&space;=&space;10\&space;log\&space;((1/5)\&space;(10\&space;^{L_N/10}&space;&plus;10\&space;^{L_O/10}&space;&plus;&space;10\&space;^{L_S/10}&space;&plus;&space;10\&space;^{L_E/10}&space;&plus;&space;10\&space;^{L_V/10}&space;))" title="\LARGE L{Aeq} = 10\ log\ ((1/5)\ (10\ ^{L_N/10} +10\ ^{L_O/10} + 10\ ^{L_S/10} + 10\ ^{L_E/10} + 10\ ^{L_V/10} ))" />
+
+Donde:
+
+LAeq = Nivel equivalente resultante de la medición.
+LN = Nivel equivalente medido en la posición del micrófono orientada en sentido norte
+LO = Nivel equivalente medido en la posición del micrófono orientada en sentido oeste
+LS = Nivel equivalente medido en la posición del micrófono orientada en sentido sur
+LE = Nivel equivalente medido en la posición del micrófono orientada en sentido este
+LV = Nivel equivalente medido en la posición del micrófono orientada en sentido vertical
+
+En el respectivo informe de resultados se debe especificar claramente la altura y
+distancia horizontal de las mediciones, de tal manera que permitan la repetibilidad de
+las mismas en el futuro.
+
+
 
