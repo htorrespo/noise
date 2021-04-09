@@ -251,7 +251,7 @@ total de acceso y salida, con intersecciones en desnivel o mediante entradas y s
 directas a otras carreteras y con control de velocidades mínimas y máximas por carril.
 
 _Banda de octava_: Es un grupo de frecuencias en torno a una banda central que
-cumplen la relación f2 = 2 f1 y además, fc = fc (f1x f2)^1/2  son las frecuencias centrales, que
+cumplen la relación f2 = 2 x f1 y además, fc = fc (f1x f2)^1/2  son las frecuencias centrales, que
 toman valores normalizados según la Norma ISO-266-75. La percepción del oído
 humano contiene aproximadamente 10 bandas de octava.
 
@@ -267,7 +267,6 @@ en un documento, frecuentemente denominado certificado de calibración o informe
 calibración.
 
 _Calibrador_: Ver definición de Pistófono.
-
 
 _Campo sonoro_: Es la región del espacio en las que existen perturbaciones elásticas.
 
@@ -285,7 +284,7 @@ naturales de los inmuebles privados, destinados por su naturaleza, por su uso o
 afectación, a la satisfacción de necesidades urbanas colectivas que trascienden, por
 tanto, los estándares de los intereses individuales de los habitantes.
 
-?Espacio privado?: Se ha de entender no solo como aquel sobre el cual ejerce dominio,
+_Espacio privado_: Se ha de entender no solo como aquel sobre el cual ejerce dominio,
 mediante su propiedad, un grupo o persona determinada, sino como una espacialidad
 que tiene características diferentes y que está compuesta en primer lugar del espacio
 individual, que proporciona la intimidad y cuyo acceso es prohibido (negativo), limitado,
@@ -465,7 +464,6 @@ _Ruido residual_: Ruido total cuando los ruidos específicos en consideración s
 suspendidos. El ruido residual es el ruido ambiental sin ruido específico. No debe
 confundirse con el ruido de fondo.
 
-
 _Ruido Tonal_: Es aquél que manifiesta la presencia de componentes tonales, es decir,
 que mediante un análisis espectral de la señal en 1/3 (un tercio) de octava, si al menos
 uno de los tonos es mayor en 5 dBA que los adyacentes, o es claramente audible, la
@@ -487,7 +485,7 @@ micrófono, amplificador, filtros de ponderación e indicador de medida, destina
 medida de niveles sonoros, siguiendo unas determinadas especificaciones.
 
 _Tercios de Octava_: Tercera parte de una banda de octava y grupo de frecuencias en
-torno a una banda central que cumplen la relación f2 = 2^1/3 x f1 y fc = fc (f1 x f2)^1/2 son las
+torno a una banda central que cumplen la relación f2 = f1 x 2^1/3 y fc = fc (f1 x f2)^1/2 son las
 frecuencias centrales, que toman valores normalizados según la Norma ISO-266-75.
 Tono puro: 1) Es una onda sonora cuya presión sonora instantánea es una función
 sinusoidal simple del tiempo y 2) Es una sensación sonora caracterizada por tener una
@@ -1018,74 +1016,6 @@ nocturnos.
 Estos valores se deben, además, presentar para cada hora, día, semana, mes y año de
 medición en cada sitio de medida georeferenciado que la autoridad ambiental ha
 determinado.
-
-
-
-<!--
-////////////////////
-_Informe Técnico_: Los informes técnicos de las mediciones de emisión de
-ruido y ruido ambiental, deben contener como mínimo la siguiente información:
-
-- Fecha de la medición, hora de inicio y de finalización.
-- Responsable del informe (Información mínima de quien lo hace).
-- Ubicación de la medición
-- Propósito de la medición.
-- Norma utilizada (Si esta resolución u otra norma, en caso de ser otra especificar
-razones)
-- Tipo de instrumentación utilizado.
-- Equipo de medición utilizado, incluyendo números de serie.
-- Datos de calibración, ajuste del instrumento de medida y fecha de vencimiento
-del certificado de calibración del pistófono.
-- Procedimiento de medición utilizado.
-- En caso de no ser posible la medición del ruido residual, las razones por las
-cuales no fue posible apagar la fuente.
-- Condiciones predominantes.
-- Condiciones atmosféricas (dirección y velocidad del viento, lluvia, temperatura,
-presión atmosférica, humedad).
-- Procedimiento para la medición de la velocidad del viento.
-- Naturaleza / estado del terreno entre la fuente y el receptor; descripción de las
-condiciones que influyen en los resultados: acabados de la superficie, geometría,
-barreras y métodos de control existentes, entre otros.
-- Resultados numéricos y comparación con la normatividad aplicada.
-- Descripción de los tiempos de medición, intervalos de tiempos de medición y de
-referencia, detalles del muestreo utilizado.
-- Variabilidad de la(s) fuente(s).
-- Descripción de las fuentes de sonido existentes, datos cualitativos.
-- Reporte de memoria de cálculo (incertidumbre, ajustes, aporte de ruido, entre
-otros).
-- Conclusiones y recomendaciones.
-- Croquis detallado que muestre la posición de las fuentes de sonido, objetos
-relevantes y puntos de observación y medición.
-- Copia de los certificados de calibración electrónica de los equipos.
-
-Estos informes deben estar disponibles para su revisión y evaluación por parte de las
-autoridades competentes. En el Anexo 4 se presenta un modelo de formato para la
-elaboración del informe técnico de medición de ruido.
-
-_Edificaciones_: Sin perjuicio de lo establecido en otros artículos de esta
-resolución, en todas las edificaciones, se debe exigir que se adopten las medidas
-preventivas necesarias, a fin de conseguir que las instalaciones auxiliares y
-complementarias de las edificaciones, tales como ascensores, equipos individuales o
-colectivos de refrigeración, puertas metálicas, puertas de garaje, funcionamiento de
-máquinas, estaciones de bombeo, transformación de energía eléctrica, electrógenos,
-sistemas de ventilación y extracción de aire, instrumentos musicales, animales
-domésticos y cualquier otro mecanismo, permanezcan con las precauciones de
-ubicación y aislamiento que garanticen que no se superen los estándares máximos
-permisibles de emisión de ruido, contemplados en la Tabla 1 de la presente resolución,
-y que no se transmitan al ambiente ruidos que superen los estándares de ruido
-ambiental establecidos en la Tabla 2 de esta resolución.
-
-En equipos instalados en patios y/o azoteas, que presenten afectación por ruido al
-ambiente, excediendo los estándares de emisión de ruido o de ruido ambiental
-permisibles establecidos en la presente resolución, se deben instalar sistemas de
-atenuación de ruido que aseguren el cumplimiento de los estándares permitidos.
-
-_Alarmas_: Las alarmas de seguridad instaladas en edificaciones no deben
-emitir al ambiente un nivel de ruido mayor de 85 dB(A) medidos a tres (3) metros de
-distancia en la dirección de máxima emisión. Para la medición del ruido emitido por
-alarmas instaladas en edificaciones, se debe proceder como se describe en el Capítulo
-I del Anexo 3, de la presente resolución, respetando la distancia de tres (3) metros.
--->
 
 
 
