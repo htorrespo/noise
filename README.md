@@ -125,8 +125,15 @@ Elaborar Tabla 1
 
 | Sector | Subsector | Dia dB(A) | Noche dB(A) |
 |--------|-----------|:---------:|:-----------:|
-|{Sector A. Tranquilidad y Silencio | Hospitales bibliotecas, guarderías, sanatorios, hogares geriátricos. | 55 | 50 |
+|Sector A. Tranquilidad y Silencio | Hospitales bibliotecas, guarderías, sanatorios, hogares geriátricos. | 55 | 50 |
 |Sector B. Tranquilidad y Ruido Moderado | Zonas residenciales o exclusivamente destinadas para desarrollo habitacional, hotelería y hospedajes. | 65 | 55 |
+
+|Sector B. Tranquilidad y Ruido Moderado | Universidades, colegios, escuelas, centros de estudio e investigación.| 65 | 55 |
+|Sector B. Tranquilidad y Ruido Moderado | Parques en zonas urbanas diferentes a los parques mecánicos al aire libre.| 65 | 55 |
+
+|Sector C. Ruído Intermedio Restringido | Zonas con usos permitidos industriales, como industrias en general, zonas portuarias, parques industriales, zonas francas.| 75 | 75 |
+
+
 
 Cuando la emisión de ruido en un sector o subsector, trascienda a
 sectores o subsectores vecinos o inmersos en él, los estándares máximos permisibles
