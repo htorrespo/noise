@@ -287,5 +287,59 @@ tanto, los estándares de los intereses individuales de los habitantes.
 
 Complementar ...
 
+# ANEXO 2
+
+**Determminacion de los valores de ajuste K**
+
+1. La corrección de nivel KS se aplica de la siguiente manera:
+2. 
+- Si el ruido proviene de las instalaciones de ventilación y climatización, bajas
+frecuencias:
+- 5 dB(A) en período diurno;
+- 8 dB(A) en período nocturno.
+- 
+2. La corrección de nivel KR por horarios se aplica de la siguiente manera:
+Si se desea calcular el nivel equivalente corregido ponderado por frecuencia A para el
+día y la noche LRAeq, dn, se efectúa la medición nocturna de ruido de la fuente específica,
+si esta funciona durante la noche, para tener en cuenta el grado de molestia que pueda
+causar a las personas se hace una corrección por adición de 10 dB(A) para el período
+nocturno en el cual funcione la fuente específica.
+
+3. La corrección de nivel KT toma en consideración los componentes tonales del ruido
+en el lugar de la medición y durante el tiempo que estén presentes estos tonos.
+
+- Por percepción nula de componentes tonales: 0 dB(A).
+- Por percepción neta de componentes tonales: 3 dB(A).
+- Por percepción fuerte de componentes tonales: 6 dB(A).
+
+4. La corrección de nivel KI toma en consideración los componentes impulsivos en el
+lugar de la medición y durante el tiempo que estén presentes los respectivos impulsos.
+
+- Por percepción nula de componentes impulsivos: 0 dB(A).
+- Por percepción neta de componentes impulsivos: 3 dB(A).
+- Por percepción fuerte de componentes impulsivos: 6 dB(A).
+5. La manera detallada de evaluar la presencia de componentes tonales se presenta a
+continuación:
+- Se hace un análisis con resolución de 1/3 de octava.
+- Se calcula la diferencia:
+
+L = Lt - Ls
+
+Donde:
+
+Lt es el nivel de presión sonora de la banda f que contiene el tono puro;
+
+Ls es la media de los niveles de las dos bandas situadas inmediatamente por encima y
+por debajo de f.
+
+Se determina la presencia o ausencia de componentes tonales, entre 20 a 125 Hz:
+
+- Si L < 8 dB(A), no hay componentes tonales.
+- Si 8 dB(A)  L  12 dB(A), hay componente tonal neto.
+- Si L > 12 dB(A), hay componente tonal fuerte.
+
+Se determina la presencia o ausencia de componentes tonales, entre 160 a 400 Hz:
+
+
 
 
