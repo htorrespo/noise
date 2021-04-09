@@ -9,7 +9,9 @@ If your needs are greater use an external LaTeX renderer like CodeCogs. Create a
 <img src="https://latex.codecogs.com/svg.latex?\LARGE&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\LARGE x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 -->
 
-# Apuntes de la Resolucion 627 de 7 de abril de 2006. Por la cual se establece la norma nacional de emisión de ruido y ruido ambiental. Ministerio de Ambiente Vivienda y Desarrollo Territorial.
+# Apuntes de la Resolucion 627 de 7 de abril de 2006. 
+
+*Por la cual se establece la norma nacional de emisión de ruido y ruido ambiental. Ministerio de Ambiente Vivienda y Desarrollo Territorial.*
 
 # Definiciones
 
